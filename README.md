@@ -40,9 +40,6 @@ and disassembly/debugging Arm binaries, 2023. (#1 on amazon @ 5 stars, not sure 
 
 ## Network
 
-## Research Tools
-* [Genetic Programming for Reverse Engineering](https://web.eecs.umich.edu/~weimerw/p/weimer-wcre2013-re-preprint.pdf)
-
 ### Other
 ## Windows
 ### Patch Guard
@@ -52,7 +49,6 @@ and disassembly/debugging Arm binaries, 2023. (#1 on amazon @ 5 stars, not sure 
 * [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering): iOS App Reverse Engineering is the world's 1st book of very detailed iOS App reverse engineering skills
 * [Reversing iOS Apps: A Practical Approach](https://s3.amazonaws.com/s3.synack.com/T2_reversingIOSApps.pdf) [PDF]
 ## Android
-* [Offensive & Defensive Android Reverse Engineering](https://github.com/rednaga/training/tree/master/DEFCON23)
 
 ### Extra
 * [PeachPy](https://github.com/Maratyszcza/PeachPy): Portable efficient assembly code-generator in higher-level python.
@@ -66,6 +62,7 @@ and disassembly/debugging Arm binaries, 2023. (#1 on amazon @ 5 stars, not sure 
 * [Reverse Engineering of Protocols from Network Traces](http://www.di.fc.ul.pt/~nuno/PAPERS/WCRE11.pdf) [PDF]
 * [The Art of Unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf) [PDF]
 * [The IDA Pro Book: Unofficial Guide](https://www.amazon.com/IDA-Pro-Book-Unofficial-Disassembler/dp/1593272898): Outdated.
+* [Genetic Programming for Reverse Engineering](https://web.eecs.umich.edu/~weimerw/p/weimer-wcre2013-re-preprint.pdf)
 
 ## Contribute
 Your submissions must be modern, relevant, and have interesting or subjective information.
