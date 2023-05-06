@@ -18,6 +18,7 @@ Modern resources, preferably from at least 2018, outdated resources *must* have 
 * [x86 Instruction Set Architecture](https://www.amazon.com/X86-Instruction-Set-Architecture-Comprehensive/dp/0977087859): Lengthy book on x86 ISA, 2011.
 * [The Red Book](https://www.red-book.eu/m/documents/syssec_red_book.pdf): Systems security research roadmap, 2013.
 * [Ghidra: The Definitive Guide](https://www.amazon.com/product-reviews/1718501021): One of the few resources on the Ghidra reversing tool. 
+* [Intro to Compilers & Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf): Brief book on designing a compiler, free.
 * [Blue Fox: Arm & Reverse Engineering](https://www.amazon.com/Blue-Fox-Assembly-Internals-Analysis/dp/1119745306): Introduces reverse engineering concepts such as static/dynamic binary analysis
 and disassembly/debugging Arm binaries, 2023. (#1 on amazon @ 5 stars, not sure if this is good though)
 
@@ -64,17 +65,7 @@ and disassembly/debugging Arm binaries, 2023. (#1 on amazon @ 5 stars, not sure 
 * [Intro to Microprocessors and Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680): Brief reference, 2007.
 * [Reverse Engineering of Protocols from Network Traces](http://www.di.fc.ul.pt/~nuno/PAPERS/WCRE11.pdf) [PDF]
 * [The Art of Unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf) [PDF]
-* [Analyzing Uncommon Firmware](https://www.ptsecurity.com/upload/corporate/ww-en/analytics/Positive-Research-2016-eng.pdf)
-* [UROBOROS - Reassembling Disassembling](https://www.usenix.org/conference/usenixsecurity15/technical-sessions/presentation/wang-shuai) - Disassembles executables to the extent that the generated code can be assembled back to working binaries without manual effort.
-* [iOS Kernel Security](https://reverse.put.as/wp-content/uploads/2011/06/D1T2-Mark-Dowd-Tarjei-Mandt-iOS6-Security.pdf) [PDF]
-* [The IDA Pro Book: Unofficial Guide](https://www.amazon.com/IDA-Pro-Book-Unofficial-Disassembler/dp/1593272898): Outdated, not open source.
-* [Dismantling Megamos Crypto: Wirelessly Lockpicking a Vehicle Immobilizer](https://www.usenix.org/sites/default/files/sec15_supplement.pdf) [PDF]
-* [Remote Exploitation of an Unaltered Passenger Vehicle](http://illmatics.com/Remote%20Car%20Hacking.pdf) [PDF]
-* [Digging For Data Structures](http://ben.ransford.org/srg/papers/cozzie--digging.pdf) [PDF]
-* [Bypass PatchGuard on Windows x64](http://www.uninformed.org/?v=3&a=3&t=txt), 05.
-* [Howard: a dynamic excavator for reverse engineering data structures](https://www.ndss-symposium.org/wp-content/uploads/2017/09/slow.pdf) [PDF]
-* [TIE: Principled Reverse Engineering of Types in Binary Programs](https://kilthub.cmu.edu/articles/journal_contribution/TIE_Principled_Reverse_Engineering_of_Types_in_Binary_Programs/6469466/1) [PDF]
-* [PInvoke.net](http://www.pinvoke.net/): PInvoke.net is a wiki, to edit and add PInvoke* signatures, user-defined types, and calling Win32 and other unmanaged APIs from managed code (C# or VB.NET).
+* [The IDA Pro Book: Unofficial Guide](https://www.amazon.com/IDA-Pro-Book-Unofficial-Disassembler/dp/1593272898): Outdated.
 
 ## Contribute
 Your submissions must be modern, relevant, and have interesting or subjective information.
