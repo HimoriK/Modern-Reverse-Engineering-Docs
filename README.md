@@ -14,8 +14,7 @@ Modern resources, preferably from at least 2018, outdated resources *must* have 
 ### Books
 * [Programming from the Ground Up](https://www.amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1540831825): Uses x86 Linux assembly language for the most important concepts in programming, resources supplied, Princeton University, has complementary book by the author, 2016.
 * [Learn to Program with Assembly](https://www.amazon.com/Learn-Program-Assembly-Foundational-Programmers/dp/1484274369): Teaches x86-64 with Linux assembly language, 2021.
-* [Reverse Engineering for Beginners](https://beginners.re/): Available in english and russian, good resource for beginners. Many topics: win32 PE file format, x86-64, syscalls, etc
-* [x86 Instruction Set Architecture](https://www.amazon.com/X86-Instruction-Set-Architecture-Comprehensive/dp/0977087859): Lengthy book on x86 ISA, 2011.
+* [Reverse Engineering for Beginners](https://beginners.re/): Available in english and russian, good resource for beginners. x86-64, syscalls, etc
 * [The Red Book](https://www.red-book.eu/m/documents/syssec_red_book.pdf): Systems security research roadmap, 2013.
 * [Ghidra: The Definitive Guide](https://www.amazon.com/product-reviews/1718501021): One of the few resources on the Ghidra reversing tool. 
 * [Intro to Compilers & Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf): Brief book on designing a compiler, free.
@@ -59,6 +58,7 @@ and disassembly/debugging Arm binaries, 2023. (#1 on amazon @ 5 stars, not sure 
 
 ### Old
 * [Intro to Microprocessors and Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680): Brief reference, 2007.
+* [x86 Instruction Set Architecture](https://www.amazon.com/X86-Instruction-Set-Architecture-Comprehensive/dp/0977087859): Lengthy book on x86 ISA, 2011.
 * [Reverse Engineering of Protocols from Network Traces](http://www.di.fc.ul.pt/~nuno/PAPERS/WCRE11.pdf) [PDF]
 * [The Art of Unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf) [PDF]
 * [The IDA Pro Book: Unofficial Guide](https://www.amazon.com/IDA-Pro-Book-Unofficial-Disassembler/dp/1593272898): Outdated.
