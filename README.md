@@ -1,5 +1,5 @@
 # Modern Reverse Engineering Docs
-Modern resources, preferably from at least 2018, outdated resources *must* have results.
+Modern resources, preferably from at least 2018.
 
 ## Software & Libraries
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra): Software reverse engineering (SRE) framework created and maintained by the NSA, with tools that analyze compiled code. Capabilities include disassembly, assembly, decompilation, and scripting, along with many other features. Ghidra supports a wide variety of process instruction sets. Users may also develop plug-ins.
@@ -61,16 +61,15 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, haven't read)
 * [x86 Instruction Set Architecture](https://www.amazon.com/X86-Instruction-Set-Architecture-Comprehensive/dp/0977087859): Lengthy book on x86 ISA, 2011.
 * [Reverse Engineering of Protocols from Network Traces](http://www.di.fc.ul.pt/~nuno/PAPERS/WCRE11.pdf) [PDF]
 * [The Art of Unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf) [PDF]
-* [The IDA Pro Book: Unofficial Guide](https://www.amazon.com/IDA-Pro-Book-Unofficial-Disassembler/dp/1593272898): Outdated.
 * [Genetic Programming for Reverse Engineering](https://web.eecs.umich.edu/~weimerw/p/weimer-wcre2013-re-preprint.pdf)
 
 ## Contribute
-Your submissions must be modern and have interesting or subjective information.
-It cannot simply just be popular or something you read, but have a high amount of data 
-with a substantially higher return on investment (no fluff). Videos,books,articles, and sometimes blogs
+Your submissions must be updated and have interesting information.
+It cannot just be material you solely use, but have a high amount of data 
+with an even more substantial return on investment (no fluff). All content, and sometimes blogs
 will be allowed. If it's before 2018, date it with the relevant information. If the data
 is outdated or common it will be removed. Information suitable for beginners and intermediates
-preferred, even rare or difficult to find research is highly coveted. Cheers.
+preferred, rare or difficult to find research is highly coveted. Cheers.
 
 Relevant topics:
 
