@@ -14,12 +14,12 @@ Modern resources, preferably from at least 2018, outdated resources *must* have 
 ### Books
 * [Programming from the Ground Up](https://www.amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1540831825): Uses x86 Linux assembly language for the most important concepts in programming, resources supplied, Princeton University, has complementary book by the author, 2016.
 * [Learn to Program with Assembly](https://www.amazon.com/Learn-Program-Assembly-Foundational-Programmers/dp/1484274369): Teaches x86-64 with Linux assembly language, 2021.
-* [Reverse Engineering for Beginners](https://beginners.re/): Available in english and russian, good resource for beginners. x86-64, syscalls, etc
+* [Reverse Engineering for Beginners](https://beginners.re/): Available in english and russian, good resource for beginners.
 * [The Red Book](https://www.red-book.eu/m/documents/syssec_red_book.pdf): Systems security research roadmap, 2013.
-* [Ghidra: The Definitive Guide](https://www.amazon.com/product-reviews/1718501021): One of the few resources on the Ghidra reversing tool. 
-* [Intro to Compilers & Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf): Brief book on designing a compiler, free.
-* [Blue Fox: Arm & Reverse Engineering](https://www.amazon.com/Blue-Fox-Assembly-Internals-Analysis/dp/1119745306): Introduces reverse engineering concepts such as static/dynamic binary analysis
-and disassembly/debugging Arm binaries, 2023. (#1 on amazon @ 5 stars, not sure if this is good though)
+* [Ghidra: The Definitive Guide](https://www.amazon.com/product-reviews/1718501021): One of few resources on the Ghidra reversing tool. 
+* [Intro to Compilers & Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf): Brief book on compiler design, free.
+* [Blue Fox: Arm & Reverse Engineering](https://www.amazon.com/Blue-Fox-Assembly-Internals-Analysis/dp/1119745306): Introduces reverse engineering concepts such as binary analysis
+and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, haven't read)
 
 ## Data Structures
 * [Automatic Reverse Engineering of Data Structures from Binary Execution](https://www.cs.purdue.edu/homes/xyzhang/Comp/ndss10.pdf) [PDF] 
@@ -65,12 +65,12 @@ and disassembly/debugging Arm binaries, 2023. (#1 on amazon @ 5 stars, not sure 
 * [Genetic Programming for Reverse Engineering](https://web.eecs.umich.edu/~weimerw/p/weimer-wcre2013-re-preprint.pdf)
 
 ## Contribute
-Your submissions must be modern, relevant, and have interesting or subjective information.
-It cannot simply just be popular or something you read, but have a higher amount of data 
-with a high return on investment (no fluff). Videos,books,articles, and sometimes blogs
+Your submissions must be modern and have interesting or subjective information.
+It cannot simply just be popular or something you read, but have a high amount of data 
+with a substantially higher return on investment (no fluff). Videos,books,articles, and sometimes blogs
 will be allowed. If it's before 2018, date it with the relevant information. If the data
-is outdated or common it will be removed. Information suitable for beginners, intermediates,
-preferred, even rare and/or difficult to find research is highly coveted, good luck out there.
+is outdated or common it will be removed. Information suitable for beginners and intermediates
+preferred, even rare or difficult to find research is highly coveted. Cheers.
 
 Relevant topics:
 
