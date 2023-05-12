@@ -2,7 +2,7 @@
 Modern resources, preferably from at least 2018.
 
 ## Software & Libraries
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra): Software reverse engineering (SRE) framework by the NSA, several tools to analyze compiled code. Capabilities include disassembly, decompilation, scripting, etc. Supports a wide variety of process instruction sets. Users may also develop plug-ins.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra): Software reverse engineering (SRE) framework by the NSA, to analyze compiled code. Capabilities include disassembly, decompilation, scripting, etc. Supports a wide variety of process instruction sets. Users may also develop plug-ins.
 * [Capstone](http://www.capstone-engine.org/): Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 * [Radare2](http://www.radare.org/): Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, scriptable.
 * [x64dbg](http://x64dbg.com/): Open source x64/x32 Windows debugger.
