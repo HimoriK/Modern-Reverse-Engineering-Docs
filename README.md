@@ -2,7 +2,7 @@
 Modern resources, preferably from at least 2018.
 
 ## Software & Libraries
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra): Software reverse engineering (SRE) framework by the NSA, to analyze compiled code. Capabilities include disassembly, decompilation, scripting, etc. Supports a wide variety of process instruction sets. Users may also develop plug-ins.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra): Software reverse engineering (SRE) framework by the NSA, to analyze compiled code. Includes disassembly, decompilation, scripting, etc. Supports a several process instruction sets. Supports plug-ins.
 * [Capstone](http://www.capstone-engine.org/): Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 * [Radare2](http://www.radare.org/): Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, scriptable.
 * [x64dbg](http://x64dbg.com/): Open source x64/x32 Windows debugger.
@@ -14,7 +14,8 @@ Modern resources, preferably from at least 2018.
 ### Books
 * [Programming from the Ground Up](https://www.amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1540831825): Uses x86 Linux assembly language for the most important concepts in programming, resources supplied, Princeton University, has complementary book by the author, 2016.
 * [Learn to Program with Assembly](https://www.amazon.com/Learn-Program-Assembly-Foundational-Programmers/dp/1484274369): Teaches x86-64 with Linux assembly language, 2021.
-* [Reverse Engineering for Beginners](https://beginners.re/): Available in english and russian, good resource for beginners.
+* [Reverse Engineering for Beginners](https://beginners.re/): Available in english and russian, good resource for beginners.[RE4B-EN(2023).pdf](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11470339/RE4B-EN.2023.pdf)
+
 * [The Red Book](https://www.red-book.eu/m/documents/syssec_red_book.pdf): Systems security research roadmap, 2013.
 * [Ghidra: The Definitive Guide](https://www.amazon.com/product-reviews/1718501021): One of few resources on the Ghidra reversing tool. 
 * [Intro to Compilers & Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf): Brief book on compiler design, free.
