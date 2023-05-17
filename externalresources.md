@@ -1,7 +1,4 @@
-# Reversing / Malware Analysis / Assembly -resources
-<div align="center">
-  <img src="http://www.nyan.cat/cats/original.gif" height="128">
-</div> 
+## External Resources
 
 * [Reverse Engineering Intro](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/)
 * [Reversing Course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
