@@ -27,7 +27,7 @@
 * [Learn x86_64 Assembly](https://gpfault.net/posts/asm-tut-0.txt.html) 0-2 tuts
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
 * [Intel x86](http://opensecuritytraining.info/IntroX86.html) 
-* [Malware Analysis Tools](https://github.com/rshipp/awesome-malware-analysis op has agenda, use caution.)
+* [Malware Analysis Tools](https://github.com/rshipp/awesome-malware-analysis) op has agenda, use caution.
 * [CTF Reversing Challenges List](https://github.com/N4NU/Reversing-Challenges-List) random with difficulty rankings.
 * [Best Malware Analysis Tools | Learn Malware Analysis](https://www.youtube.com/watch?v=Wh_DJTaDq6U) 10min vid
 * [list of RE resources](https://github.com/wtsxDev/reverse-engineering)
