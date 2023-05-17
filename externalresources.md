@@ -46,7 +46,7 @@
 * [Tool review](https://www.pelock.com/articles/reverse-engineering-tools-review)
 * [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)
 * [Ghidra Cheatsheet](https://ghidra-sre.org/CheatSheet.html)
-* [6502 ASM Tutorial](https://skilldrick.github.io/easy6502/index.html) an alternative approach for beginners. X86 is meant to be written by compilers, 6502 might be easier to learn for academic purposes.
+* [6502 ASM Tutorial](https://skilldrick.github.io/easy6502/index.html) alternative approach for beginners. X86 is meant to be written by compilers, 6502 is easier for academic purposes.
 * [Linux Reverse Engineering CTFs for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/) Recommends reading any intel x86 asm book to begin. (honestly any general asm is fine)
 * [BUFFER OVERFLOW 7 The Stack Operation](https://www.tenouk.com/Bufferoverflowc/Bufferoverflow1.html) mid but important guides from a C/C++ specialist.
 * [Assembly Perspective](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/) Decent show of how code works with assembly.
@@ -72,7 +72,7 @@
 * [Malware Noob 2 Ninja Course](https://www.youtube.com/playlist?list=PLiFO-R_BI-kAqDPqtnOq2n70mtAZ6xg5N)
 * [Analyzing Modern Malware Techniques](https://danusminimus.github.io/2020/01/22/Analyzing-Modern-Malware-Techniques-Part-1.html): Series 1-4
 * [Introduction to Ghidra Student Guide](https://static.grumpycoder.net/pixel/docs/GhidraClass/Beginner/Introduction_to_Ghidra_Student_Guide_withNotes.html#Introduction_to_Ghidra_Student_Guide.html)
-* [Learning assembly for linux-x64](https://github.com/0xAX/asm) The english/chinese is pretty bad, it could use a rewrite, but is legible I think, they tried. 2020
+* [Learning assembly for linux-x64](https://github.com/0xAX/asm) The english/chi is pretty bad, but is legible I think, they tried. 2020
 * [Modern Binary Exploitation](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/)
 * [Practical x64 Assembly and C++ Tutorials](https://www.youtube.com/playlist?list=PL0C5C980A28FEE68D) series, OLD 2013
 * [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly) mid intro to c > assembly
