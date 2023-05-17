@@ -6,7 +6,7 @@ Modern resources, preferably from at least 2018.
 * [Reverse Engineering 102](https://www.shadowinfosec.io/2018/05/a-gentle-introduction-into-arm-assembly.html) If you can read this, you can learn.
 * [Assembly NASM](https://pacman128.github.io/pcasm/)
 * [CTF Guide](https://trailofbits.github.io/ctf/)
-* There are different paths to learn reverse engineering. Do a decent CS course and learn about computer architecture, CTFs, browse resources and become a guru, or use premade tools and impress anyone that doesn't know any better. Reading books and trying to absorb all available content is risky and time-consuming, don't bother learning libraries and memorizing functions, instead try to understand how a target's architecture works. Recommendation: read at least 2 of the books here, build an environment, pick preferred tools, then take a software apart methodically.
+* There are different paths to learn reverse engineering. Do a decent CS course and learn about computer architecture, CTFs, browse resources, or use premade tools and impress the uninitiated. Trying to absorb all available content is risky and time-consuming, don't bother memorizing long libraries and functions, instead try to understand how a target's architecture works. Recommendation: read at least 2 of the books here, build an environment, pick preferred tools, then take a software apart methodically.
 
 ### Books
 * [Programming from the Ground Up](https://www.amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1540831825): Uses x86 Linux assembly language on important concepts in programming, Princeton University, has sequel book by the author, 2016.
