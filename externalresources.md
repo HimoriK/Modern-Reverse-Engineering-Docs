@@ -1,4 +1,4 @@
-# External Resources
+## External Resources
 
 ## Assembly and Reversing
 * [Reverse Engineering Intro](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/)
