@@ -1,4 +1,4 @@
-## External Resources
+# External Resources
 
 ## Assembly and Reversing
 * [Reverse Engineering Intro](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/)
@@ -70,7 +70,7 @@
 * [Malware Analysis Tutorials: a Reverse Engineering Approach](https://fumalwareanalysis.blogspot.com/p/malware-analysis-tutorials-reverse.html) Old, plentiful series, seems useful? 2011
 * [Engineering antivirus evasion](https://blog.scrt.ch/2020/06/19/engineering-antivirus-evasion/) advanced, source code included
 
-### Extra
+## Extra
 * [8bit, 16bit, 32bit, and 64bit -- Arrow Tech Trivia](https://www.youtube.com/watch?v=_SkpnG571z8)
 * [Index of free reversing tools](https://docs.google.com/document/d/18FBSpnPrduNidGS4SAQreXITHMz6PyYfx2nqlcTKDSM/edit#heading=h.uzujihnza7no)
 * [SecurityTube GDB Expert Playlist](https://www.youtube.com/playlist?list=PLiP0FxVgYuUz0kdK7L7YaI5n4qkOuymue) old, but GDB tuts are rare, 2013.
@@ -81,7 +81,7 @@
 * [Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/)
 * [Assembly Sheet Berkeley](https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf) Advanced, brief.
 
-## Old
+### Old
 * [x86 Instruction Set Architecture](https://www.amazon.com/X86-Instruction-Set-Architecture-Comprehensive/dp/0977087859): Lengthy book on x86 ISA, 2011.
 * [Reverse Engineering of Protocols from Network Traces](http://www.di.fc.ul.pt/~nuno/PAPERS/WCRE11.pdf) [PDF]
 * [Genetic Programming for Reverse Engineering](https://web.eecs.umich.edu/~weimerw/p/weimer-wcre2013-re-preprint.pdf)
