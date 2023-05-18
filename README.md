@@ -23,21 +23,17 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, haven't read)
 * [Reverse Engineering Malware Unicorn](https://malwareunicorn.org/workshops/re101.html#0)
 
 ### Extra
-* [PeachPy](https://github.com/Maratyszcza/PeachPy): Portable, efficient assembly code-generator in higher-level python.
 * [Implementing Reverse Engineering](https://www.amazon.com/product-reviews/B09DT5N5JP): Haven't read this, sample seems ok.
 * [Game Boy Coding Adventure](https://www.amazon.com/Game-Boy-Coding-Adventure-programming-ebook/dp/B0B7FY5576): Brief but informative game boy hacking book, 2021.
 * [Mastering Defensive Security](https://www.amazon.com/Mastering-Defensive-Security-techniques-infrastructure-ebook/dp/B09BZXC5SC): Random cybersecurity book.
 
 ## Software & Libraries
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra): Software reverse engineering (SRE) framework by the NSA, to analyze compiled code. Includes disassembly, decompilation, scripting, etc. Supports different instruction sets. Supports plug-ins.
-* [Capstone](http://www.capstone-engine.org/): Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 * [Radare2](http://www.radare.org/): Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, scriptable.
 * [x64dbg](http://x64dbg.com/): Open source x64/x32 Windows debugger.
 
 ### Old
 * [Intro to Microprocessors and Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680): Brief reference, 2007.
-* [x86 Instruction Set Architecture](https://www.amazon.com/X86-Instruction-Set-Architecture-Comprehensive/dp/0977087859): Lengthy book on x86 ISA, 2011.
-* [Reverse Engineering of Protocols from Network Traces](http://www.di.fc.ul.pt/~nuno/PAPERS/WCRE11.pdf) [PDF]
 * [The Art of Unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf) [PDF]
 
 ## Contribute
