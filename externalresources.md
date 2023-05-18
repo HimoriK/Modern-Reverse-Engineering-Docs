@@ -46,7 +46,7 @@
 * [Tool review](https://www.pelock.com/articles/reverse-engineering-tools-review)
 * [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)
 * [Ghidra Cheatsheet](https://ghidra-sre.org/CheatSheet.html)
-* [6502 ASM Tutorial](https://skilldrick.github.io/easy6502/index.html) alternative approach for beginners. X86 is meant to be written by compilers, 6502 is easier for academic purposes.
+* [6502 ASM Tutorial](https://skilldrick.github.io/easy6502/index.html) alternative approach for beginners. X86 is written by compilers, 6502 is easier for academic purposes.
 * [Linux Reverse Engineering CTFs for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/) Recommends reading any intel x86 asm book to begin. (honestly any general asm is fine)
 * [BUFFER OVERFLOW 7 The Stack Operation](https://www.tenouk.com/Bufferoverflowc/Bufferoverflow1.html) mid but important guides from a C/C++ specialist.
 * [Assembly Perspective](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/) Decent show of how code works with assembly.
