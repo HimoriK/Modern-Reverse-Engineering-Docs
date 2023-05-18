@@ -1,5 +1,5 @@
 # External Resources
-Stuff I haven't checked or can't put on the front page.
+Stuff I haven't checked or put on the front page.
 
 ## Assembly and Reversing
 * [Reverse Engineering Intro](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/)
