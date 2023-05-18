@@ -41,7 +41,7 @@
 * [A Crash Course in x86 Assembly for Reverse Engineers](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf)
 * [x86-assembly-cheat](https://github.com/cirosantilli/x86-assembly-cheat)
 
-## Malware Analysis
+### Malware Analysis
 * [Malware Analysis Tools](https://github.com/rshipp/awesome-malware-analysis) op has agenda, use caution.
 * [CTF Reversing Challenges List](https://github.com/N4NU/Reversing-Challenges-List) random with difficulty rankings.
 * [Best Malware Analysis Tools | Learn Malware Analysis](https://www.youtube.com/watch?v=Wh_DJTaDq6U) 10min vid
@@ -81,7 +81,7 @@
 * [Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/)
 * [Assembly Sheet Berkeley](https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf) Advanced, brief.
 
-### Old
+## Old
 * [x86 Instruction Set Architecture](https://www.amazon.com/X86-Instruction-Set-Architecture-Comprehensive/dp/0977087859): Lengthy book on x86 ISA, 2011.
 * [Reverse Engineering of Protocols from Network Traces](http://www.di.fc.ul.pt/~nuno/PAPERS/WCRE11.pdf) [PDF]
 * [Genetic Programming for Reverse Engineering](https://web.eecs.umich.edu/~weimerw/p/weimer-wcre2013-re-preprint.pdf)
