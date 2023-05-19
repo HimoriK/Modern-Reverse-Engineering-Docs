@@ -2,7 +2,11 @@
 Stuff I haven't checked or put on the front page.
 
 ## Assembly and Reversing
+* ['c/c++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/#fn:1) 
+* [How a cpu works](https://www.youtube.com/watch?v=cNN_tTXABUA) 20min, pros approve, 2013.
 * [Reverse Engineering Intro](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/)
+* [Pwnadventure](https://sourcery.pwnadventure.com/) Hacking Game
+* [x86 Assembly Crash Course](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf) 25 pgs, 2013. Made for YOU, TLDR
 * [Reversing Course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 * [Wannabe Malware Analyst](https://blog.malwarebytes.com/security-world/2012/09/so-you-want-to-be-a-malware-analyst/)
 * [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)
@@ -65,6 +69,7 @@ Stuff I haven't checked or put on the front page.
 * [Linux Binary Exploitation Series](https://www.taintedbits.com/2020/04/28/linux-binary-exploitation-series-with-pwnable-kr/)
 * [File Type Analysis & Code Extraction](https://struppigel.blogspot.com/2017/06/training-1-file-type-analysis-and-code.html?view=sidebar) website sucks, 2017
 * [Malware Noob 2 Ninja Course](https://www.youtube.com/playlist?list=PLiFO-R_BI-kAqDPqtnOq2n70mtAZ6xg5N)
+* [Pwnable](https://pwnable.xyz/) CTF, modern?
 * [Analyzing Modern Malware Techniques](https://danusminimus.github.io/2020/01/22/Analyzing-Modern-Malware-Techniques-Part-1.html): Series 1-4
 * [Introduction to Ghidra Student Guide](https://static.grumpycoder.net/pixel/docs/GhidraClass/Beginner/Introduction_to_Ghidra_Student_Guide_withNotes.html#Introduction_to_Ghidra_Student_Guide.html)
 * [Modern Binary Exploitation](https://web.archive.org/web/20210710080726/http://security.cs.rpi.edu/courses/binexp-spring2015/)
@@ -75,6 +80,9 @@ Stuff I haven't checked or put on the front page.
 * [8bit, 16bit, 32bit, and 64bit -- Arrow Tech Trivia](https://www.youtube.com/watch?v=_SkpnG571z8)
 * [Index of free reversing tools](https://docs.google.com/document/d/18FBSpnPrduNidGS4SAQreXITHMz6PyYfx2nqlcTKDSM/edit#heading=h.uzujihnza7no)
 * [SecurityTube GDB Expert Playlist](https://www.youtube.com/playlist?list=PLiP0FxVgYuUz0kdK7L7YaI5n4qkOuymue) old, but GDB tuts are rare, 2013.
+* [Where are all the hackers?](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html) good article on programming hassles/differences.
+* [Python is slow](https://peter-jp-xie.medium.com/how-slow-is-python-compared-to-c-3795071ce82a) good article on why to use python for utility, not performance.
+* [pypy & cython better](https://www.pypy.org/) pypy and cython sacrifice compatibility and ease for speed. 
 * [PeachPy](https://github.com/Maratyszcza/PeachPy): Portable, efficient assembly code-generator in higher-level python.
 * [reddit/favcsyoutuber](https://www.reddit.com/r/hacking/comments/nj68g2/which_is_your_favourite_cybersecurity_youtube/)
 * [x86-64 Assembly Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
@@ -92,4 +100,5 @@ Stuff I haven't checked or put on the front page.
 * [Learning assembly for linux-x64](https://github.com/0xAX/asm) english/chi is pretty bad, but is legible I think, they tried. 2020
 * [x86 microcode, but might have been afraid to ask](https://media.ccc.de/v/34c3-9058-everything_you_want_to_know_about_x86_microcode_but_might_have_been_afraid_to_ask) advanced, 2017
 * [Literally just some of the same resources](https://determined-pink-c50.notion.site/806c7afcbce24dc19e26fcd4b9c84f7b?v=21a0d4cde27942c48924ef5b078acc99)
+* [randomyt](https://www.youtube.com/c/BenEater/videos)
 * [Windows Security](http://www.cse.tkk.fi/fi/opinnot/T-110.6220/2014_Reverse_Engineering_Malware_AND_Mobile_Platform_Security_AND_Software_Security/luennot-files/T1106220.pdf) advanced, unclear slides.
