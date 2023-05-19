@@ -1,7 +1,8 @@
 # Modern Reverse Engineering Docs
-Modern resources, preferably from at least 2018. There are different paths to learn reverse engineering. Any decent CS course learning about computer architecture, CTFs, browse resources, or use premade tools and impress the uninitiated. Absorbing all available content is time-consuming, don't bother memorizing long libraries and functions, instead try to understand how a target's architecture works. Recommendation: read at least 2 of the books here, build an environment, pick preferred tools, then take a software apart methodically.
+Modern resources, preferably from at least 2018.
 
 ## Basics
+* There are different paths to learn reverse engineering. Any decent CS course learning about computer architecture, CTFs, browse resources, or use premade tools and impress the uninitiated. Absorbing all available content is time-consuming, don't bother memorizing long libraries and functions, instead try to understand how a target's architecture works. Recommendation: read at least 2 of the books here, build an environment, pick preferred tools, then take a software apart methodically.
 * [Reverse Engineering 101](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/) Start Here, if this is too difficult, run.
 * [Reverse Engineering 102](https://www.shadowinfosec.io/2018/05/a-gentle-introduction-into-arm-assembly.html) If you can read this, you can learn.
 * [Assembly NASM](https://pacman128.github.io/pcasm/)
