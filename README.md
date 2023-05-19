@@ -6,6 +6,7 @@ There are different paths to learn reverse engineering. Any decent CS course lea
 
 * [Reverse Engineering 101](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/) Start Here, if this is too difficult, run.
 * [Reverse Engineering 102](https://www.shadowinfosec.io/2018/05/a-gentle-introduction-into-arm-assembly.html) If you can read this, you can learn.
+* [x86 Assembly Crash Course](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf) 25 pgs, 2013. TLDR.
 * [Assembly NASM](https://pacman128.github.io/pcasm/)
 * [CTF Guide](https://trailofbits.github.io/ctf/)
 
