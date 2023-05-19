@@ -6,7 +6,7 @@ Stuff I haven't checked or put on the front page.
 * [How a cpu works](https://www.youtube.com/watch?v=cNN_tTXABUA) 20min, pros approve, 2013.
 * [Reverse Engineering Intro](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/)
 * [Pwnadventure](https://sourcery.pwnadventure.com/) Hacking Game
-* [x86 Assembly Crash Course](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf) 25 pgs, 2013. TLDR
+* [x86 Assembly Crash Course](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf) 25 pgs, 2013. TLDR.
 * [Reversing Course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 * [Wannabe Malware Analyst](https://blog.malwarebytes.com/security-world/2012/09/so-you-want-to-be-a-malware-analyst/)
 * [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)
