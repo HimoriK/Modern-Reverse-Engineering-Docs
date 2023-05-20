@@ -17,7 +17,7 @@ There are different paths to learn reverse engineering. Any decent CS course lea
 * [Intro to GCC](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522130/gccintro.pdf)
 * [Beej's Guide to Network Programming](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522150/bgnet_usl_bw_1.pdf)
 * [Computer Science I](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522155/ComputerScienceOne.pdf)
-* [Lua Guide StackOverflow](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522164/lua.pdf) Brief, probably not very good
+* [Lua StackOverflow Guide](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522164/lua.pdf) Brief, probably not very good
 * [Algorithms Refresh](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522196/Algorithms-JeffE-BW.pdf) Has notes, references, open source.
 * [ARM7-TDMI-manual-pt3](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522207/ARM7-TDMI-manual-pt3.pdf)
 * [Intro to Arm Assembly](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522212/Introduction.to.Assembly.Language.Programming.From.Soup.to.Nuts.pdf)
