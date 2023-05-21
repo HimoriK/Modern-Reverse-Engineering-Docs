@@ -13,13 +13,9 @@ Try to use any fresh resource you get within the same year you get it, if not, w
 An alternative to looking for outdated resources, whether free or otherwise, is to simply frequent blogs and forum posts along with watching the occasional video. You may not learn as much or as quickly had you
 simply picked up a book. But if you aren't reading, then you're probably coding or doing something else anyway. And if you aren't coding, then what are you here for? This project is for coders, go on.
 
-* Most of Windows & Linux API is in C.
-* C++ was the defacto language for projects.
-* Companies are now shifting toward Rust, Go, etc
-
-* Google is attempting to supercede C++ with Carbon.
-* Rust is popular amongst programmers, but still not 
-* prevalent in business, despite recent implementation.
+* Most of Windows & Linux API is in C. C++ was the defacto language for projects.
+* Companies are now shifting toward Rust, Go, etc. Google is attempting to supercede C++ with Carbon.
+* Rust is popular amongst programmers, but still not prevalent in business, despite recent implementation.
 
 Binary = Assembly > C, C++ etc > Javascript etc > Python > Java(sucks).
 Learn C, x86, Rust, Go, & Python 
