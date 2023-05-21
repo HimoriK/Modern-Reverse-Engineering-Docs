@@ -20,5 +20,7 @@ simply picked up a book. But if you aren't reading, then you're probably coding 
 Binary = Assembly > C, C++ etc > Javascript etc > Python > Java(sucks).
 Learn C, x86, Rust, Go, & Python 
 
+## Status
+
 * Ghidra has been gaining popularity despite using Java.
 * IDA industry standard, but policies restrict use.
