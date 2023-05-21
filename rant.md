@@ -6,19 +6,20 @@ Yes, free or rather 'open source' books and resources are the best due to the pa
 
 I was tired of finding 10+ year old rhetoric that has already changed or will change. However, some of these old books were future proofed by genius authors... perhaps they had the ability to see into the future. Topics like AI have hardly changed, a lot of old school techniques are probably even more effective now than when they were first discovered. Try playing the original F.E.A.R. That game has pretty good AI and is a challenge even on normal difficulty. Much harder than any modern title released today, what with lazy AI, glitches, and pigeon holed programming. 
 
+## So what do we do?
+
 Try to use any fresh resource you get within the same year you get it, if not, within 2 years. Beyond that, if the data is no longer relevant, if it can be improved, that is also something you can do. Several times over, have I discovered that, in my search for quality tutorials and info, these 'prestigious' books were filled with redundant code/architecture which wouldn't even compile. Do not waste your money with outsourced, non-debugged commercial products written by so-called 'experts' of these languages.
 
 An alternative to looking for outdated resources, whether free or otherwise, is to simply frequent blogs and forum posts along with watching the occasional video. You may not learn as much or as quickly had you
 simply picked up a book. But if you aren't reading, then you're probably coding or doing something else anyway. And if you aren't coding, then what are you here for? This project is for coders, go on.
 
-Most of Windows & Linux API is in C.
-C++ was the defacto language for projects.
-Companies are now shifting toward Rust, Go, etc
+* Most of Windows & Linux API is in C.
+* C++ was the defacto language for projects.
+* Companies are now shifting toward Rust, Go, etc
 
-Google is attempting to supercede C++ with Carbon.
-
-Rust is popular amongst programmers, but still not 
-prevalent in business, despite recent implementation.
+* Google is attempting to supercede C++ with Carbon.
+* Rust is popular amongst programmers, but still not 
+* prevalent in business, despite recent implementation.
 
 Binary = Assembly > C, C++ etc > Javascript etc > Python > Java(sucks).
 Learn C, x86, Rust, Go, & Python 
