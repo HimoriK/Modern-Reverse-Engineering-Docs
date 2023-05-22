@@ -17,25 +17,8 @@ simply picked up a book. But if you aren't reading, then you're probably coding 
 * Companies are now shifting toward Rust, Go, etc. Google is attempting to supercede C++ with Carbon.
 * Rust is popular amongst programmers, but still not prevalent in business, despite recent implementation.
 
-  [Binary = Assembly > C, C++ etc > Javascript etc > Python > Java(sucks).
-   Learn C, x86, Rust, Go, & Python'
-   
-
-
-    'Learn cpp
-
-    Learn Windows Internals
-
-    Learn how to use IDA Pro or Ghidra
-
-    Read RE for Beginners
-
-    Find some targets you want to mess with and start poking at them, learning as you go
-
-    Eventually, pick up some assembly'
-
-
-  
+  Binary = Assembly > C, C++ etc > Javascript etc > Python > Java(sucks). 
+Learn C, x86, Rust, Go, & Python
 
 ### Status
 
