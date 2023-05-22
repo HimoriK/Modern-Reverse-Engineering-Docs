@@ -32,3 +32,14 @@ Conversely, FASM has *many* resources to get up to speed with it. YASM might rep
 
 YASM is about as popular as both NASM & FASM, however the utility is more important for a
 general assembly language to learn. In general, I'd learn YASM or FASM. Followed by ARM if necessary.
+
+### Funny quotes
+
+'The proper answer is never to utilize these skid forums and tutorials on how to "hack games". You might learn a little, but you will also learn many incorrect things. Don't be a victim of information pollution and people trying to monetize mediocre content.
+
+    Learn [cpp
+    Learn Windows Internals
+    Learn how to use IDA Pro or Ghidra
+    Read RE for Beginners
+    Find some targets you want to mess with and start poking at them, learning as you go
+    Eventually, pick up some assembly '
