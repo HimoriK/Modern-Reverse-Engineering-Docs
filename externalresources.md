@@ -38,7 +38,7 @@ Stuff I haven't checked or put on the front page.
 * [Intel x86](http://opensecuritytraining.info/IntroX86.html) 
 * [Assembly Perspective](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/) Decent show of how code works with assembly.
 * [Placebo](https://redteamlounge.gitbook.io/rtl/resources/reversing)
-* [ArmASMTutorialExercises](https://armasm.com/) & [videos](https://www.youtube.com/watch?v=qX6NoqkAMGU&list=PL3obxknGN_EF1BQAL93XprpNUBo81PHFt) 
+* [Arm Tutorial Exercises](https://armasm.com/) & [videos](https://www.youtube.com/watch?v=qX6NoqkAMGU&list=PL3obxknGN_EF1BQAL93XprpNUBo81PHFt) 
 * [Assembly Language Succinctly](https://www.syncfusion.com/ebooks/assemblylanguage)
 * [Assembly.Hello](http://cssimplified.com/computer-organisation-and-assembly-language-programming/beginner-write-your-first-assembly-language-program-hello-world-explained)
 * [Becoming a full-stack reverse-engineer](https://youtu.be/9vKG8-TnawY)
