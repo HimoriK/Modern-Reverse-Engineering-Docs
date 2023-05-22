@@ -22,7 +22,7 @@ simply picked up a book. But if you aren't reading, then you're probably coding 
    
 
 
-    ' Learn cpp
+    'Learn cpp
 
     Learn Windows Internals
 
@@ -32,7 +32,7 @@ simply picked up a book. But if you aren't reading, then you're probably coding 
 
     Find some targets you want to mess with and start poking at them, learning as you go
 
-    Eventually, pick up some assembly '
+    Eventually, pick up some assembly'
 
 
   
