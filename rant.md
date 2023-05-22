@@ -24,6 +24,7 @@ Learn C, x86, Rust, Go, & Python
 
 * Ghidra has been gaining popularity despite using Java.
 * IDA industry standard, but policies restrict use.
+* Radare2 is CLI only, unless Iaito, & zero-sum forked. 
 
 There are too many assembly languages, some of which are now depreciated.
 ARM, NASM, FASM/G & YASM popped up frequently in my searches, and are solid choices to learn.
