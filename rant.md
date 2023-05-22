@@ -23,7 +23,7 @@ simply picked up a book. But if you aren't reading, then you're probably coding 
 
     Binary = Assembly > C, C++ etc > Javascript etc > Python > Java(sucks).
    
-    Learn C, x86, Rust, Go, & Python
+  
     Learn cpp
     Learn Windows Internals
     Learn how to use IDA Pro or Ghidra
