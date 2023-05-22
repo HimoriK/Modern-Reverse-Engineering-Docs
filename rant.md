@@ -22,7 +22,7 @@ simply picked up a book. But if you aren't reading, then you're probably coding 
    
 
 
-    Learn cpp
+    > Learn cpp
 
     Learn Windows Internals
 
