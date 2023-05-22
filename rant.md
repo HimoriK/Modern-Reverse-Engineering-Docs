@@ -17,8 +17,8 @@ simply picked up a book. But if you aren't reading, then you're probably coding 
 * Companies are now shifting toward Rust, Go, etc. Google is attempting to supercede C++ with Carbon.
 * Rust is popular amongst programmers, but still not prevalent in business, despite recent implementation.
 
-Binary = Assembly > C, C++ etc > Javascript etc > Python > Java(sucks).
-Learn C, x86, Rust, Go, & Python 
+'Binary = Assembly > C, C++ etc > Javascript etc > Python > Java(sucks).
+Learn C, x86, Rust, Go, & Python'
 
 ### Status
 
@@ -37,8 +37,8 @@ general assembly language to learn. In general, I'd learn YASM or FASM. Followed
 
 'The proper answer is never to utilize these skid forums and tutorials on how to "hack games". You might learn a little, but you will also learn many incorrect things. Don't be a victim of information pollution and people trying to monetize mediocre content.
 
-    Learn [cpp
-    Learn Windows Internals
+    Learn [cpp](https://www.learncpp.com/)
+    Learn [Windows Internals](https://www.amazon.com/Windows-Kernel-Programming-Pavel-Yosifovich/dp/B0BW2X91L2/)
     Learn how to use IDA Pro or Ghidra
     Read RE for Beginners
     Find some targets you want to mess with and start poking at them, learning as you go
