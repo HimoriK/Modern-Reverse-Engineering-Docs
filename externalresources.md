@@ -2,7 +2,7 @@
 Stuff I haven't checked or put on the front page.
 
 ## Assembly and Reversing
-* ['c/c++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/#fn:1) 
+* ['C/C++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/#fn:1) 
 * [How a cpu works](https://www.youtube.com/watch?v=cNN_tTXABUA) 20min, pros approve, 2013.
 * [Reverse Engineering Intro](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/)
 * [Game Hacking Academy](https://gamehacking.academy/about) Current, free
@@ -38,7 +38,7 @@ Stuff I haven't checked or put on the front page.
 * [Intel x86](http://opensecuritytraining.info/IntroX86.html) 
 * [Assembly Perspective](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/) Decent show of how code works with assembly.
 * [Placebo](https://redteamlounge.gitbook.io/rtl/resources/reversing)
-* [Arm Tutorial Exercises](https://armasm.com/) & [videos](https://www.youtube.com/watch?v=qX6NoqkAMGU&list=PL3obxknGN_EF1BQAL93XprpNUBo81PHFt) 
+* [Arm Tutorial Exercises](https://armasm.com/) & [Videos](https://www.youtube.com/watch?v=qX6NoqkAMGU&list=PL3obxknGN_EF1BQAL93XprpNUBo81PHFt) 
 * [Assembly Language Succinctly](https://www.syncfusion.com/ebooks/assemblylanguage)
 * [Assembly.Hello](http://cssimplified.com/computer-organisation-and-assembly-language-programming/beginner-write-your-first-assembly-language-program-hello-world-explained)
 * [Becoming a full-stack reverse-engineer](https://youtu.be/9vKG8-TnawY)
