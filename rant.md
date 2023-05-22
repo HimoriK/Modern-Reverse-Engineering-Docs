@@ -17,8 +17,27 @@ simply picked up a book. But if you aren't reading, then you're probably coding 
 * Companies are now shifting toward Rust, Go, etc. Google is attempting to supercede C++ with Carbon.
 * Rust is popular amongst programmers, but still not prevalent in business, despite recent implementation.
 
-'Binary = Assembly > C, C++ etc > Javascript etc > Python > Java(sucks).
-Learn C, x86, Rust, Go, & Python'
+  [Binary = Assembly > C, C++ etc > Javascript etc > Python > Java(sucks).
+   Learn C, x86, Rust, Go, & Python'
+   
+
+    Binary = Assembly > C, C++ etc > Javascript etc > Python > Java(sucks).
+   
+    Learn C, x86, Rust, Go, & Python'
+   
+    Learn cpp
+
+    Learn Windows Internals
+
+    Learn how to use IDA Pro or Ghidra
+
+    Read RE for Beginners
+
+    Find some targets you want to mess with and start poking at them, learning as you go
+
+    Eventually, pick up some assembly
+
+  
 
 ### Status
 
@@ -41,5 +60,5 @@ general assembly language to learn. In general, I'd learn YASM or FASM. Followed
   * Learn [Windows Internals](https://www.amazon.com/Windows-Kernel-Programming-Pavel-Yosifovich/dp/B0BW2X91L2/)
   * Learn how to use IDA Pro or Ghidra
   * Read RE for Beginners
-  * Find some targets you want to mess with and start poking at them, learning as you go
+  * Find some targets to test & learn from
   * Eventually, pick up some assembly '
