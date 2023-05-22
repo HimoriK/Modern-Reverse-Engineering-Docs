@@ -26,10 +26,9 @@ Learn C, x86, Rust, Go, & Python
 * IDA industry standard, but policies restrict use.
 * Radare2 is CLI only, unless Iaito, & zero-sum forked. 
 
-There are too many assembly languages, some of which are now depreciated.
-ARM, NASM, FASM/G & YASM popped up frequently in my searches, and are solid choices to learn.
-Users mentioned NASM is bloated with C and the source code is not as elegant as FASM(100% assembly of itself).
-Conversely, FASM has *many* resources to get up to speed with it, and some have claimed YASM will replace NASM.
+There are too many assembly languages, some are now depreciated.
+ARM, NASM, FASM/G & YASM are good to learn. Users mentioned NASM is bloated with C and the source code is not as elegant as FASM(100% assembly of itself).
+Conversely, FASM has *many* resources to get up to speed with it. YASM might replace NASM due to features.
 
-Judging by the repos, YASM is about as popular as both NASM & FASM, however the utility is more important for a
-general assembly language to learn. In general, I'd learn YASM or FASM in that order. Followed by ARM if necessary.
+YASM is about as popular as both NASM & FASM, however the utility is more important for a
+general assembly language to learn. In general, I'd learn YASM or FASM. Followed by ARM if necessary.
