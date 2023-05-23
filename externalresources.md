@@ -81,6 +81,7 @@ Stuff I haven't checked or put on the front page.
 ## Extra
 * [8bit, 16bit, 32bit, and 64bit -- Arrow Tech Trivia](https://www.youtube.com/watch?v=_SkpnG571z8)
 * [Index of free reversing tools](https://docs.google.com/document/d/18FBSpnPrduNidGS4SAQreXITHMz6PyYfx2nqlcTKDSM/edit#heading=h.uzujihnza7no)
+* [Intro to x86 FASM Series](https://www.youtube.com/watch?v=gvYEQ4F_qp8&list=PLXIsc9dApNXogHjSTIqbhvYBw5WODn7Yb) by the creator of FASM, Current.
 * [SecurityTube GDB Expert Playlist](https://www.youtube.com/playlist?list=PLiP0FxVgYuUz0kdK7L7YaI5n4qkOuymue) old, but GDB tuts are rare, 2013.
 * [Where are all the hackers?](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html) good article on programming hassles/differences.
 * [Python is slow](https://peter-jp-xie.medium.com/how-slow-is-python-compared-to-c-3795071ce82a) good article on why to use python for utility, not performance.
