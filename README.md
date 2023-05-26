@@ -4,9 +4,9 @@ Modern resources, preferably from at least 2018.
 ## Basics
 There are different paths to learn reverse engineering. Any decent CS course learning about computer architecture, CTFs, browse resources, or use premade tools and impress the uninitiated. Absorbing all available content is time-consuming, don't bother memorizing long libraries and functions, instead try to understand how a target's architecture works. Recommendation: read at least 2 of the books here, build an environment, pick preferred tools, then take a software apart methodically.
 
-* [Reverse Engineering 101](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/) Start Here, if this is too difficult, run.
+* [Reverse Engineering 101](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/) Start here, if this is too difficult, run.
 * [Reverse Engineering 102](https://www.shadowinfosec.io/2018/05/a-gentle-introduction-into-arm-assembly.html) If you can read this, you can learn.
-* [x86 Assembly Crash Course](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf) 25 pgs, 2013. TLDR.
+* [x86 Assembly Crash Course](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf) 25 pgs, 2013.
 * [NASM x86](https://pacman128.github.io/pcasm/) & [FASM](https://flatassembler.net/)
 * [CTF Guide #1](https://trailofbits.github.io/ctf/) [& #2](https://github.com/ctf-wiki/ctf-wiki)
 
@@ -27,7 +27,7 @@ There are different paths to learn reverse engineering. Any decent CS course lea
 * [Ghidra: The Definitive Guide](https://www.amazon.com/product-reviews/1718501021): Key resource on the Ghidra reversing tool.
 * [Intro to Compilers & Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf): Brief book on compiler design, free.
 * [Blue Fox: Arm & Reverse Engineering](https://www.amazon.com/Blue-Fox-Assembly-Internals-Analysis/dp/1119745306): Introduces reverse engineering concepts such as binary analysis
-and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, haven't read)
+and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, I've heard it was a good book on Arm Architecture.)
 
 ### Courses
 * [Reverse Engineering Malware Unicorn](https://malwareunicorn.org/workshops/re101.html#0)
