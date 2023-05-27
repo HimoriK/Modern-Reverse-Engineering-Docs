@@ -31,6 +31,7 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, I've heard it was a goo
 
 ### Courses
 * [Reverse Engineering Malware Unicorn](https://malwareunicorn.org/workshops/re101.html#0)
+* [Windows Exploit Development](https://www.securitysift.com/windows-exploit-development-part-1-basics/) 2013, series, will replace later.
 
 ### Extra
 * [Implementing Reverse Engineering](https://www.amazon.com/product-reviews/B09DT5N5JP): Haven't read this, sample seems ok.
