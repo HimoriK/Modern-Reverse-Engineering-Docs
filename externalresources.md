@@ -93,6 +93,9 @@ Stuff I haven't checked or put on the front page.
 * [Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/)
 * [Assembly Sheet Berkeley](https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf) Advanced, brief.
 
+## Blogs+Forums
+* [Packetsecurity](https://packetstormsecurity.com/)
+
 ### Old
 * [x86 Instruction Set Architecture](https://www.amazon.com/X86-Instruction-Set-Architecture-Comprehensive/dp/0977087859): Lengthy book on x86 ISA, 2011.
 * [Reverse Engineering of Protocols from Network Traces](http://www.di.fc.ul.pt/~nuno/PAPERS/WCRE11.pdf) [PDF]
