@@ -2,7 +2,7 @@
 Stuff I haven't checked or put on the front page.
 
 ## Assembly and Reversing
-<details><summary>Click Me</summary>
+<details> <summary>Click Me</summary>
 * ['C/C++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/#fn:1) 
 * [How a cpu works](https://www.youtube.com/watch?v=cNN_tTXABUA) 20min, pros approve, 2013.
 * [Reverse Engineering Intro](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/)
@@ -47,7 +47,7 @@ Stuff I haven't checked or put on the front page.
 * [Go Reverse Engineering ToolKit](https://go-re.tk/)
 * [x86 Assembly Crash Course → YouTube](https://www.youtube.com/watch?v=75gBFiFtAb8) The first search on youtube.
 * [A Crash Course in x86 Assembly for Reverse Engineers](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf)
-* [x86-assembly-cheat](https://github.com/cirosantilli/x86-assembly-cheat)</details>
+* [x86-assembly-cheat](https://github.com/cirosantilli/x86-assembly-cheat) </details>
 
 ### Malware Analysis
 * [Malware Analysis Tools](https://github.com/rshipp/awesome-malware-analysis) op has agenda, use caution.
