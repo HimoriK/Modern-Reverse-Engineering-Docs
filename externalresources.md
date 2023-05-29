@@ -82,6 +82,11 @@ Stuff I haven't checked or put on the front page.
 * [8bit, 16bit, 32bit, and 64bit -- Arrow Tech Trivia](https://www.youtube.com/watch?v=_SkpnG571z8)
 * [Index of free reversing tools](https://docs.google.com/document/d/18FBSpnPrduNidGS4SAQreXITHMz6PyYfx2nqlcTKDSM/edit#heading=h.uzujihnza7no)
 * [Intro to x86 FASM Series](https://www.youtube.com/watch?v=gvYEQ4F_qp8&list=PLXIsc9dApNXogHjSTIqbhvYBw5WODn7Yb) by the creator of FASM, Current.
+* [Computer Science Roadmap](https://roadmap.sh/computer-science)
+* [Game Developer Roadmap](https://github.com/utilForever/game-developer-roadmap) resourceful
+* [AI Dev Roadmap](https://i.am.ai/roadmap/#introduction) useful, efficient
+* [ML Roadmap](https://github.com/chris-chris/ml-engineer-roadmap) good list
+* [CyberSecurity Roadmap](https://roadmap.sh/cyber-security) what you'd expect
 * [SecurityTube GDB Expert Playlist](https://www.youtube.com/playlist?list=PLiP0FxVgYuUz0kdK7L7YaI5n4qkOuymue) old, but GDB tuts are rare, 2013.
 * [Where are all the hackers?](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html) good article on programming hassles/differences.
 * [Python is slow](https://peter-jp-xie.medium.com/how-slow-is-python-compared-to-c-3795071ce82a) good article on why to use python for utility, not performance.
@@ -92,7 +97,9 @@ Stuff I haven't checked or put on the front page.
 * [6502 ASM Tutorial](https://skilldrick.github.io/easy6502/index.html) alternative approach for beginners. X86 is written by compilers, 6502 is easier for academic purposes.
 * [Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/)
 * [Assembly Sheet Berkeley](https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf) Advanced, brief.
+* [3 hour ML Roadmap](https://youtu.be/pHiMN_gy9mk) good if you don't want to read about ML paths
 * [Awesome Hacking Resources](https://github.com/HimoriK/Awesome-Hacking-Resources) another list I slightly updated.
+* [RansomwareLive](https://ransomware.live/#/) Live testing site.
 
 ## Blogs+Forums
 * [Packetsecurity](https://packetstormsecurity.com/)
