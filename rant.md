@@ -33,7 +33,7 @@ Conversely, FASM has *many* resources to get up to speed with it. YASM might rep
 YASM is about as popular as both NASM & FASM, however the utility is more important for a
 general assembly language to learn. In general, I'd learn YASM or FASM. Followed by ARM if necessary.
 
-<details><summary>Programming languages to learn</summary> 
+<details><summary>High level languages</summary> 
 
 Personal Recommendation:
 Learn C, C++, and Python, then [Rust](https://github.com/anshulrgoyal/rust-web-developer-roadmap)/[Go](https://roadmap.sh/golang)
