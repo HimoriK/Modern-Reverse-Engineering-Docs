@@ -33,6 +33,19 @@ Conversely, FASM has *many* resources to get up to speed with it. YASM might rep
 YASM is about as popular as both NASM & FASM, however the utility is more important for a
 general assembly language to learn. In general, I'd learn YASM or FASM. Followed by ARM if necessary.
 
+<details><summary>More</summary> 
+
+Personal Recommendation:
+Learn C, C++, and Python, then [Rust](https://github.com/anshulrgoyal/rust-web-developer-roadmap)/[Go](https://roadmap.sh/golang)
+
+You'll need C and C++ for legacy hardware, games, and Windows stuff.
+Python is just good to have. Rust is convienent, powerful, it might replace C/C++
+'Go' for the same reasons, it's another modern language to know that may transition over into Carbon's release.
+
+Go is easier to learn than Rust due to simplicity, but it 
+also has similiar effectiveness to Rust and C. (Meaning it's faster than
+Python). </details>
+
 ### Funny quotes
 
 ``` The proper answer is never to utilize these skid forums and tutorials on how to "hack games". You might learn a little, but you will also learn many incorrect things. Don't be a victim of information pollution and people trying to monetize mediocre content. ```
