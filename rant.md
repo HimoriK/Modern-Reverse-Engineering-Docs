@@ -20,6 +20,10 @@ simply picked up a book. But if you aren't reading, then you're probably coding 
   Binary = Assembly > C, C++ etc > Javascript etc > Python > Java(sucks). 
 Learn C, x86, Rust, Go, & Python
 
+Seems like Cybersecurity is a vague term, there are a lot of different names for the same thing, but probably the most general and accesible field is networking. If you know that,
+you can go anywhere, and it's probably easier to learn that than to learn Assembly since network topologies and the web are constantly being streamlined, so knowing how to setup and
+maintain a network is a great skill to have.
+
 ### Status
 
 * Ghidra has been gaining popularity despite using Java.
