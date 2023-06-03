@@ -87,6 +87,7 @@ Stuff I haven't checked or put on the front page.
 * [AI Dev Roadmap](https://i.am.ai/roadmap/#introduction) useful, efficient
 * [ML Roadmap](https://github.com/chris-chris/ml-engineer-roadmap) good list
 * [CyberSecurity Roadmap](https://roadmap.sh/cyber-security) what you'd expect
+* [become a BIG BRAIN assembly programmer in 10 minutes](https://youtu.be/6S5KRJv-7RU) x64 assembly meme video.
 * [SecurityTube GDB Expert Playlist](https://www.youtube.com/playlist?list=PLiP0FxVgYuUz0kdK7L7YaI5n4qkOuymue) old, but GDB tuts are rare, 2013.
 * [Where are all the hackers?](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html) good article on programming hassles/differences.
 * [Python is slow](https://peter-jp-xie.medium.com/how-slow-is-python-compared-to-c-3795071ce82a) good article on why to use python for utility, not performance.
