@@ -18,6 +18,16 @@ Decompiler - revert a program to it's source code (if the source is known)
 ~~~
 </details>
 
+<details>
+<summary>some summary</summary>
+
+A list
+- Another list item
+- <details><summary>some summary</summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </details>
+- Another list item
+
+</details>
+
 ### Books
 * [Programming from the Ground Up](https://www.amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1540831825): Uses x86 Linux assembly language on important concepts in programming, Princeton University, has sequel book by the author, 2016.
 * [Learn to Program with Assembly](https://www.amazon.com/Learn-Program-Assembly-Foundational-Programmers/dp/1484274369): Teaches x86-64 with Linux assembly language, 2021.
