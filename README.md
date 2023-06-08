@@ -9,7 +9,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [x86 Assembly Crash Course](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf) 25 pgs, 2013.
 * [NASM x86](https://pacman128.github.io/pcasm/) & [FASM](https://flatassembler.net/)
 * [CTF Guide #1](https://trailofbits.github.io/ctf/) [& #2](https://github.com/ctf-wiki/ctf-wiki)
-<details><summary>Key Terms</summary>
+<details><summary>Terms for frequent tools</summary>
   
 - Debugger - steps through the program assembly interactively
 - Disassembler - retrieves the bulk program assembly 
