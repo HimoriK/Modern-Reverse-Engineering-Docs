@@ -23,9 +23,8 @@ Decompiler - revert a program to it's source code (if the source is known)
 
 A list
 - Another list item
-- <details><summary>some summary</summary>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </details>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Another list item
-
 </details>
 
 ### Books
