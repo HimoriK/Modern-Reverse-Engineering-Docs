@@ -93,6 +93,7 @@ Stuff I haven't checked or put on the front page.
 * [Python is slow](https://peter-jp-xie.medium.com/how-slow-is-python-compared-to-c-3795071ce82a) good article on why to use python for utility, not performance.
 * [pypy & cython better](https://www.pypy.org/) pypy and cython sacrifice compatibility and ease for speed. 
 * [PeachPy](https://github.com/Maratyszcza/PeachPy): Portable, efficient assembly code-generator in higher-level python.
+* [WhyJulia](https://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia) Julia potentially faster than C.
 * [reddit/favcsyoutuber](https://www.reddit.com/r/hacking/comments/nj68g2/which_is_your_favourite_cybersecurity_youtube/)
 * [x86-64 Assembly Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
 * [6502 ASM Tutorial](https://skilldrick.github.io/easy6502/index.html) alternative approach for beginners. X86 is written by compilers, 6502 is easier for academic purposes.
