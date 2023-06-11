@@ -11,7 +11,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [CTF Guide #1](https://trailofbits.github.io/ctf/) [& #2](https://github.com/ctf-wiki/ctf-wiki)
 <details><summary>Terms for common tools</summary>
   
-- *Debugger* - steps through the program assembly interactively
+- *Debugger* - sequence through program assembly interactively
 - *Disassembler* - retrieves the bulk program assembly 
 - *Decompiler* - revert a program to it's source code (if the source is known)
 </details>
