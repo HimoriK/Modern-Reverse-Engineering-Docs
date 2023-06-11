@@ -105,7 +105,7 @@ Stuff I haven't checked or put on the front page.
 ## Blogs+Forums
 * [Packetsecurity](https://packetstormsecurity.com/)
 * [Why you need to learn C](https://www.reddit.com/r/learnprogramming/comments/12oax90/asking_for_clarification_how_is_learning_c/)  *Foolish web dev thinks Java is enough, wants to learn Assembly*
-* ['Return 0'](https://stackoverflow.com/a/20919981) *The end of a program*
+* [Return 0](https://stackoverflow.com/a/20919981) *The end of a program*
 
 ### Old
 * [x86 Instruction Set Architecture](https://www.amazon.com/X86-Instruction-Set-Architecture-Comprehensive/dp/0977087859): Lengthy book on x86 ISA, 2011.
