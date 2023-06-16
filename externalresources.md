@@ -4,10 +4,7 @@ Stuff I haven't checked or put on the front page.
 ## Assembly and Reversing
 * ['C/C++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/#fn:1) 
 * [How a cpu works](https://www.youtube.com/watch?v=cNN_tTXABUA) 20min, pros approve, 2013.
-* [Reverse Engineering Intro](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/)
 * [Game Hacking Academy](https://gamehacking.academy/about) Current, free
-* [Pwnadventure](https://sourcery.pwnadventure.com/) Hacking Game
-* [x86 Assembly Crash Course](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf) 25 pgs, 2013. TLDR.
 * [Reversing Course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 * [Wannabe Malware Analyst](https://blog.malwarebytes.com/security-world/2012/09/so-you-want-to-be-a-malware-analyst/)
 * [How to become the best Malware Analyst E-V-E-R](http://www.hexacorn.com/blog/2018/04/14/how-to-become-the-best-malware-analyst-e-v-e-r/)
@@ -28,7 +25,6 @@ Stuff I haven't checked or put on the front page.
 * [microcorruption](https://microcorruption.com) Nice intro CTF site
 * [LiveOverflow: Binary Exploitation / Memory Corruption](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 * [Reverse Engineering 101](https://malwareunicorn.org/workshops/re101.html#0)
-* [Tutpoint: Assembly Programming Tutorial](https://www.tutorialspoint.com/assembly_programming/index.html)
 * [Radare2 Tutorial for Beginners](https://www.megabeets.net/a-journey-into-radare-2-part-1/) effective 'defacto' guide to learn r2.
 * [Introduction To Reverse Engineering With Radare2](https://www.youtube.com/watch?v=LAkYW5ixvhg) Good if you use Radare2.
 * [Reverse Engineering Resources-Beginners to intermediate Links](https://medium.com/@vignesh4303/reverse-engineering-resources-beginners-to-intermediate-guide-links-f64c207505ed)
@@ -45,8 +41,8 @@ Stuff I haven't checked or put on the front page.
 * [Tool review](https://www.pelock.com/articles/reverse-engineering-tools-review)
 * [Go Reverse Engineering ToolKit](https://go-re.tk/)
 * [x86 Assembly Crash Course → YouTube](https://www.youtube.com/watch?v=75gBFiFtAb8) The first search on youtube.
-* [A Crash Course in x86 Assembly for Reverse Engineers](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf)
 * [x86-assembly-cheat](https://github.com/cirosantilli/x86-assembly-cheat) 
+* [Advanced Systems Coursebook](https://github.com/illinois-cs241/coursebook/blob/pdf_deploy/main.pdf) - Advanced systems programming by Urbana-Champaign 
 
 ### Malware Analysis
 * [Malware Analysis Tools](https://github.com/rshipp/awesome-malware-analysis) op has agenda, use caution.
@@ -101,51 +97,45 @@ Stuff I haven't checked or put on the front page.
 * [Assembly Sheet Berkeley](https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf) Advanced, brief.
 * [3 hour ML Roadmap](https://youtu.be/pHiMN_gy9mk) good if you don't want to read about ML paths
 * [Awesome Hacking Resources](https://github.com/HimoriK/Awesome-Hacking-Resources) another list I slightly updated.
+* [Hack a PDF with JavaScript](https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/) Might come in handy.
 * [RansomwareLive](https://ransomware.live/#/) Live testing site.
 
 ### Relevant free programming books
 
-*C
+*C*
 
 * [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation (PDF) Abnormally good book, very modern C. 2018?
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML) ok book.
 * [An Introduction to C & GUI Programming](https://magpi.raspberrypi.com/books/c-gui-programming) - ok book, first half teaches C, then how to build a GUI with it in RPI.
 * [Learn to Code With C - The MagPi Essentials](https://magpi.raspberrypi.com/books/essentials-c-v1) same author as above, only teaches C, 2016. Recommends Geany. Good Primer? (90 pages)
+* [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) (Primer, learn GNU C), 2008 [Confirmed](https://www.gnu.org/savannah-checkouts/non-gnu/c-prog-book/)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 * [Build Your Own Redis with C/C++](https://build-your-own.org) - build-your-own.org (HTML) (:construction: *in process*)
 * [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/) bootcamp 2012, describes data types/easy examples, neat
-* [Coursebook](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - Nick Parlante (PDF) C short ref
 * [Essential C](https://www.programming-books.io/essential/c/) - Krzysztof Kowalczyk, StackOverflow Contributors (ok book)
 * [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/) brief, pointers only guide, 2010.
 * [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) - CodeAhoy (HTML) (looks neat, good resource maybe)
-* [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) - Ciaran O’Riordan (Primer, learn GNU C).
 * [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (this might be a good book, even though it's old.) 2009. 
-* [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
-* [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/) - Jens Gustedt (this book sucks, avoid)
-* [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
-* [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
+* [Learn ANSI-C](https://dl.icdst.org/pdfs/files/c340d163f17673b5a4d4c0b12301dadf.pdf) Old C standard, may have values, references K&R. 1990s?
+* [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry (its not even a bad book, unfortunately its from 1993)
+* [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi (old, there are better books) 
 * [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (easy intro) 2013.
-* [The C book](https://github.com/wardvanwanrooij/thecbook/releases/download/20020721/thecbook.pdf) - Old book, was updated but.. 1991-'2020'
-* [The C Programming Language Handbook](https://flaviocopes.com/page/c-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-* [The Current C Programming Language Standard – ISO/IEC 9899:2018 (C17/C18), Draft](https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf) - Open Standards Org - www.open-std.org (PDF)
-* [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess, Ron Hale-Evans (PDF)
-* [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - Trevis Rothwell, James Youngman (HTML) [(PDF)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)
-* [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
-* [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
+* [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess, Ron Hale-Evans (PDF) 2002, very in depth though. GNU will always be useful, but there are updated books now.
+* [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - Trevis Rothwell, James Youngman (HTML) [(PDF)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf) 2015.
+* [The little book about OS development](https://ordoflammae.github.io/littleosbook/book.pdf) Nice little x86 OS dev book, might be useful later, current.
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 
-*Julia
+*Julia*
 
 * [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
-* [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
-* [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso
+* [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo) meh site
+* [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso (very good for beginners, was converted into a free MOOC)
 * [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
-* [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
-* [Quantitative Economics with Julia](https://julia.quantecon.org) - Jesse Perla, Thomas J. Sargent, John Stachurski (HTML, [PDF](https://web.archive.org/web/20210713122108/https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf))
-* [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
-* [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens, Allen Downey (GitBook)
+* [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson (lengthy, but shows several commands)
+* [Quantitative Economics with Julia](https://julia.quantecon.org) - Jesse Perla, Thomas J. Sargent, John Stachurski (HTML, [PDF](https://web.archive.org/web/20210713122108/https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf)) very specific study, not necessary.
+* [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - 'short' but confusing primer.
 
 ## Blogs+Forums
 * [Packetsecurity](https://packetstormsecurity.com/)
