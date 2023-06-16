@@ -119,10 +119,8 @@ Stuff I haven't checked or put on the front page.
 * [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) - CodeAhoy (HTML) (looks neat, good resource maybe)
 * [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (this might be a good book, even though it's old.) 2009. 
 * [Learn ANSI-C](https://dl.icdst.org/pdfs/files/c340d163f17673b5a4d4c0b12301dadf.pdf) Old C standard, may have values, references K&R. 1990s?
-* [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry (its not even a bad book, unfortunately its from 1993)
-* [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi (old, there are better books) 
 * [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (easy intro) 2013.
-* [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess, Ron Hale-Evans (PDF) 2002, very in depth though. GNU will always be useful, but there are updated books now.
+* [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess, Ron Hale-Evans (PDF) 2002, very in depth though. GNU will always be useful, though this book is outdated.
 * [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - Trevis Rothwell, James Youngman (HTML) [(PDF)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf) 2015.
 * [The little book about OS development](https://ordoflammae.github.io/littleosbook/book.pdf) Nice little x86 OS dev book, might be useful later, current.
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
@@ -130,11 +128,9 @@ Stuff I haven't checked or put on the front page.
 *Julia*
 
 * [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
-* [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo) meh site
+* [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) example code, meh
 * [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso (very good for beginners, was converted into a free MOOC)
-* [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
-* [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson (lengthy, but shows several commands)
-* [Quantitative Economics with Julia](https://julia.quantecon.org) - Jesse Perla, Thomas J. Sargent, John Stachurski (HTML, [PDF](https://web.archive.org/web/20210713122108/https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf)) very specific study, not necessary.
+* [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) 2nd way to learn Julia.
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - 'short' but confusing primer.
 
 ## Blogs+Forums
