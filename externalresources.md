@@ -103,6 +103,50 @@ Stuff I haven't checked or put on the front page.
 * [Awesome Hacking Resources](https://github.com/HimoriK/Awesome-Hacking-Resources) another list I slightly updated.
 * [RansomwareLive](https://ransomware.live/#/) Live testing site.
 
+### Relevant free programming books
+
+*C
+
+* [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation (PDF) Abnormally good book, very modern C. 2018?
+* [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML) ok book.
+* [An Introduction to C & GUI Programming](https://magpi.raspberrypi.com/books/c-gui-programming) - ok book, first half teaches C, then how to build a GUI with it in RPI.
+* [Learn to Code With C - The MagPi Essentials](https://magpi.raspberrypi.com/books/essentials-c-v1) same author as above, only teaches C, 2016. Recommends Geany. Good Primer? (90 pages)
+* [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
+* [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
+* [Build Your Own Redis with C/C++](https://build-your-own.org) - build-your-own.org (HTML) (:construction: *in process*)
+* [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/) bootcamp 2012, describes data types/easy examples, neat
+* [Coursebook](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
+* [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - Nick Parlante (PDF) C short ref
+* [Essential C](https://www.programming-books.io/essential/c/) - Krzysztof Kowalczyk, StackOverflow Contributors (ok book)
+* [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/) brief, pointers only guide, 2010.
+* [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) - CodeAhoy (HTML) (looks neat, good resource maybe)
+* [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) - Ciaran O’Riordan (Primer, learn GNU C).
+* [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (this might be a good book, even though it's old.) 2009. 
+* [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
+* [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/) - Jens Gustedt (this book sucks, avoid)
+* [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
+* [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
+* [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (easy intro) 2013.
+* [The C book](https://github.com/wardvanwanrooij/thecbook/releases/download/20020721/thecbook.pdf) - Old book, was updated but.. 1991-'2020'
+* [The C Programming Language Handbook](https://flaviocopes.com/page/c-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+* [The Current C Programming Language Standard – ISO/IEC 9899:2018 (C17/C18), Draft](https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf) - Open Standards Org - www.open-std.org (PDF)
+* [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess, Ron Hale-Evans (PDF)
+* [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - Trevis Rothwell, James Youngman (HTML) [(PDF)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)
+* [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
+* [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
+* [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
+
+*Julia
+
+* [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
+* [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) - Samuel Colvin (GitHub repo)
+* [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso
+* [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) - Antonello Lobianco (GitBook)
+* [Learn Julia in Y minutes](https://learnxinyminutes.com/docs/julia) - Leah Hanson
+* [Quantitative Economics with Julia](https://julia.quantecon.org) - Jesse Perla, Thomas J. Sargent, John Stachurski (HTML, [PDF](https://web.archive.org/web/20210713122108/https://julia.quantecon.org/_downloads/pdf/quantitative_economics_with_julia.pdf))
+* [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - Bogumił Kamiński (PDF)
+* [Think Julia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) - Ben Lauwens, Allen Downey (GitBook)
+
 ## Blogs+Forums
 * [Packetsecurity](https://packetstormsecurity.com/)
 * [Why you need to learn C](https://www.reddit.com/r/learnprogramming/comments/12oax90/asking_for_clarification_how_is_learning_c/)  *Foolish web dev thinks Java is enough, wants to learn Assembly*
@@ -120,3 +164,5 @@ Stuff I haven't checked or put on the front page.
 * [Literally just some of the same resources](https://determined-pink-c50.notion.site/806c7afcbce24dc19e26fcd4b9c84f7b?v=21a0d4cde27942c48924ef5b078acc99)
 * [randomyt](https://www.youtube.com/c/BenEater/videos)
 * [Windows Security](http://www.cse.tkk.fi/fi/opinnot/T-110.6220/2014_Reverse_Engineering_Malware_AND_Mobile_Platform_Security_AND_Software_Security/luennot-files/T1106220.pdf) advanced, unclear slides.
+* [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline 1997, leisurely, punch cards.
+* [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch 2011, learned Python? Learn C.
