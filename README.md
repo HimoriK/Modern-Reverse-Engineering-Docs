@@ -17,7 +17,10 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 </details>
 
 ### Books
-* [ModernC](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522242/ModernC.pdf) Rare resource on ModernC, get what you can from this book.
+* [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation (PDF) Abnormally good book, very modern C. 2018?
+* [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML) ok book.
+* [An Introduction to C & GUI Programming](https://magpi.raspberrypi.com/books/c-gui-programming) - ok book, first half teaches C, then how to build a GUI with it in RPI.
+* [Learn to Code With C - The MagPi Essentials](https://magpi.raspberrypi.com/books/essentials-c-v1) same author as above, only teaches C, 2016. Recommends Geany. Good Primer? (90 pages)
 * [ModernC++ for Absolute Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522246/Slobodan.Dmitrovic.-.Modern.C%2B%2B.for.Absolute.Beginners_.A.Friendly.Introduction.to.C%2B%2B.Programming.Language.and.C%2B%2B11.to.C%2B%2B20.Standards-Apress.2020.pdf) Efficient.
 * [Reverse Engineering for Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11470339/RE4B-EN.2023.pdf): Available in multiple languages, good resource for beginners.
 * [Programming from the Ground Up](https://www.amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1540831825): Uses x86 Linux assembly language on important concepts in programming, Princeton University, has sequel book by the author, 2016.
@@ -53,6 +56,7 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 ### Old
 * [Intro to Microprocessors and Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680): Brief reference, 2007.
 * [The Art of Unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf) [PDF]
+* [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) (Primer, learn GNU C), 2008 [Confirmed](https://www.gnu.org/savannah-checkouts/non-gnu/c-prog-book/)
 
 ## Contribute
 Submissions must be current, interesting data with higher return on investment (no fluff).
