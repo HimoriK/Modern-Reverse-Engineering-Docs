@@ -133,6 +133,20 @@ Stuff I haven't checked or put on the front page.
 * [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) 2nd way to learn Julia.
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - 'short' but confusing primer.
 
+*Python* --
+
+A Whirlwind Tour of Python
+Beyond the Basic Stuff with Python by Al Sweigart
+'A Beginner's Python Tutorial' by Wikibooks, 'Automate the Boring Stuff with Python' 
+and "Python Crash Course" by Eric Matthes are highly recommended.
+The Coder's Apprentice: Learning Programming with Python 3 by Pieter Spronck
+Computational and Inferential Thinking by Ani Adhikari, et
+Python Data Science Handbook by Jake VanderPlas
+Cracking Codes with Python by Al Sweigart
+The Big Book of Small Python Projects
+Python for Data Analysis
+
+
 ## Blogs+Forums
 * [Packetsecurity](https://packetstormsecurity.com/)
 * [Why you need to learn C](https://www.reddit.com/r/learnprogramming/comments/12oax90/asking_for_clarification_how_is_learning_c/)  *Foolish web dev thinks Java is enough, wants to learn Assembly*
