@@ -127,22 +127,22 @@ Stuff I haven't checked or put on the front page.
 
 *Julia*
 
-* [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) - Wikibooks
+* [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) Wikibooks
 * [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) example code, meh
-* [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso (very good for beginners, was converted into a free MOOC)
+* [Julia Data Science](https://juliadatascience.io) very good for beginners, was converted into a free MOOC
 * [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) 2nd way to learn Julia.
-* [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - 'short' but confusing primer.
+* [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) 'short' but confusing primer.
 
 *Python* 
 
-* [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - Quickly learn the basics
-* [Beyond the Basic Stuff with Python" by Al Sweigart](https://inventwithpython.com/beyond/) - More advanced
-* [A Beginner's Python Tutorial by Wikibooks](https//en.wikibooks.org/wiki/Python_Programming) - Covers everything from basic to advanced
-* [Automate the Boring Stuff with Python](https//automatetheboringstuff.com/) - Automate tasks
-* [Python Crash Course](https//nostarch.com/pythoncrashcourse2e) - Learn Python from scratch
-* [The Coder's Apprentice Learning Programming with Python 3](https//www.spronck.net/pythonbook/pythonbook.pdf) - Learn programming with Python
+* [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) Quickly learn the basics
+* [Beyond the Basic Stuff with Python" by Al Sweigart](https://inventwithpython.com/beyond/) More advanced
+* [A Beginner's Python Tutorial by Wikibooks](https//en.wikibooks.org/wiki/Python_Programming) Covers everything from basic to advanced
+* [Automate the Boring Stuff with Python](https//automatetheboringstuff.com/) Automate tasks
+* [Python Crash Course](https//nostarch.com/pythoncrashcourse2e) Learn Python from scratch
+* [The Coder's Apprentice Learning Programming with Python 3](https//www.spronck.net/pythonbook/pythonbook.pdf) Learn programming with Python
 * [Computational and Inferential Thinking](https//www.inferentialthinking.com/)
-* [Python Data Science Handbook](https//jakevdp.github.io/PythonDataScienceHandbook/) - Learn data science with Python
+* [Python Data Science Handbook](https//jakevdp.github.io/PythonDataScienceHandbook/) Learn data science with Python
 * [Cracking Codes with Python](https//inventwithpython.com/cracking/)
 * [The Big Book of Small Python Projects](https//inventwithpython.com/bigbook/)
 * [Python for Data Analysis](https//www.oreilly.com/library/view/python-for-data/9781491957653/)
