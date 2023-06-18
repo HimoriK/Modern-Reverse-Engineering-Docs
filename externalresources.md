@@ -133,18 +133,19 @@ Stuff I haven't checked or put on the front page.
 * [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) 2nd way to learn Julia.
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) - 'short' but confusing primer.
 
-*Python* --
+*Python* 
 
-A Whirlwind Tour of Python
-Beyond the Basic Stuff with Python by Al Sweigart
-'A Beginner's Python Tutorial' by Wikibooks, 'Automate the Boring Stuff with Python' 
-and "Python Crash Course" by Eric Matthes are highly recommended.
-The Coder's Apprentice: Learning Programming with Python 3 by Pieter Spronck
-Computational and Inferential Thinking by Ani Adhikari, et
-Python Data Science Handbook by Jake VanderPlas
-Cracking Codes with Python by Al Sweigart
-The Big Book of Small Python Projects
-Python for Data Analysis
+* [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - Quickly learn the basics
+* [Beyond the Basic Stuff with Python" by Al Sweigart](https://inventwithpython.com/beyond/) - More advanced
+* [A Beginner's Python Tutorial by Wikibooks](https//en.wikibooks.org/wiki/Python_Programming) - Covers everything from basic to advanced
+* [Automate the Boring Stuff with Python](https//automatetheboringstuff.com/) - Automate tasks
+* [Python Crash Course](https//nostarch.com/pythoncrashcourse2e) - Learn Python from scratch
+* [The Coder's Apprentice Learning Programming with Python 3](https//www.spronck.net/pythonbook/pythonbook.pdf) - Learn programming with Python
+* [Computational and Inferential Thinking](https//www.inferentialthinking.com/)
+* [Python Data Science Handbook](https//jakevdp.github.io/PythonDataScienceHandbook/) - Learn data science with Python
+* [Cracking Codes with Python](https//inventwithpython.com/cracking/)
+* [The Big Book of Small Python Projects](https//inventwithpython.com/bigbook/)
+* [Python for Data Analysis](https//www.oreilly.com/library/view/python-for-data/9781491957653/)
 
 
 ## Blogs+Forums
