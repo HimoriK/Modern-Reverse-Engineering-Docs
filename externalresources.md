@@ -133,7 +133,7 @@ Stuff I haven't checked or put on the front page.
 * [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) 2nd way to learn Julia.
 * [The Julia Express](http://bogumilkaminski.pl/files/julia_express.pdf) 'short' but confusing primer.
 
-*Python* 
+### Python 
 
 * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) Quickly learn the basics
 * [Python Crash Course](https//nostarch.com/pythoncrashcourse2e) Learn Python from scratch (3rd edition is available) 
