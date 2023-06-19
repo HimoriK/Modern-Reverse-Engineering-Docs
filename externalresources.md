@@ -104,20 +104,21 @@ Stuff I haven't checked or put on the front page.
 
 *C*
 
-* [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation (PDF) Abnormally good book, very modern C. 2018?
-* [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML) ok book.
+* [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation, ok book C11, 2018?
+* [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - ok book, intermediate concepts, 2018.
 * [An Introduction to C & GUI Programming](https://magpi.raspberrypi.com/books/c-gui-programming) - ok book, first half teaches C, then how to build a GUI with it in RPI.
-* [Learn to Code With C - The MagPi Essentials](https://magpi.raspberrypi.com/books/essentials-c-v1) same author as above, only teaches C, 2016. Recommends Geany. Good Primer? (90 pages)
+* [Learn to Code With C](https://magpi.raspberrypi.com/books/essentials-c-v1) same author as above, only teaches C, 2016. Recommends Geany. Good Primer? (90 pages)
 * [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) (Primer, learn GNU C), 2008 [Confirmed](https://www.gnu.org/savannah-checkouts/non-gnu/c-prog-book/)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 * [Build Your Own Redis with C/C++](https://build-your-own.org) - build-your-own.org (HTML) (:construction: *in process*)
 * [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/) bootcamp 2012, describes data types/easy examples, neat
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - Nick Parlante (PDF) C short ref
-* [Essential C](https://www.programming-books.io/essential/c/) - Krzysztof Kowalczyk, StackOverflow Contributors (ok book)
+* [Essential C](https://www.programming-books.io/essential/c/) - StackOverflow Contributors (ok book, slightly rewritten, possibly better than C Notes?) 
 * [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/) brief, pointers only guide, 2010.
 * [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) - CodeAhoy (HTML) (looks neat, good resource maybe)
 * [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (this might be a good book, even though it's old.) 2009. 
+* [Megalist Wiki](https://www.wikiod.com/c/getting-started-with-c-language/) Massive Wiki of programming info from stackoverflow documentation. (bad, only archived)
 * [Learn ANSI-C](https://dl.icdst.org/pdfs/files/c340d163f17673b5a4d4c0b12301dadf.pdf) Old C standard, may have values, references K&R. 1990s?
 * [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (easy intro) 2013.
 * [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess, Ron Hale-Evans (PDF) 2002, very in depth though. GNU will always be useful, though this book is outdated.
