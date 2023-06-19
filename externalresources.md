@@ -136,12 +136,12 @@ Stuff I haven't checked or put on the front page.
 *Python*
 
 * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) Quickly learn the basics
-* [Python Crash Course](https//nostarch.com/pythoncrashcourse2e) Learn Python from scratch (3rd edition is available) 
-* [Beyond the Basic Stuff with Python" by Al Sweigart](https://inventwithpython.com/beyond/) More advanced
+* [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) Learn Python from scratch, 3rd edition is available
+* [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) More advanced
 * [Python Programming Primer](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11782118/Python.Programming.Primer.pdf) better crash course? hands on
-* [The Coder's Apprentice Learning Programming with Python 3](https//www.spronck.net/pythonbook/pythonbook.pdf) interesting modern book, jun 2023
-* [Computational and Inferential Thinking](https//www.inferentialthinking.com/) ok book, intro to data science
-* [The Big Book of Small Python Projects](ttps//inventwithpython.com/bigbook/) practical
+* [The Coder's Apprentice Learning Programming with Python 3](https://www.spronck.net/pythonbook/pythonbook.pdf) interesting modern book, jun 2023
+* [Computational and Inferential Thinking](https://www.inferentialthinking.com/) ok book, intro to data science
+* [The Big Book of Small Python Projects](https://inventwithpython.com/bigbook/) practical
 
 
 ## Blogs+Forums
