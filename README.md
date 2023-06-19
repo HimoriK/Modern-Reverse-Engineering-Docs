@@ -33,7 +33,6 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 * [Algorithms Refresh](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522196/Algorithms-JeffE-BW.pdf) Has notes, references, open source.
 * [ARM7-TDMI-manual-pt3](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522207/ARM7-TDMI-manual-pt3.pdf)
 * [Intro to Arm Assembly](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522212/Introduction.to.Assembly.Language.Programming.From.Soup.to.Nuts.pdf)
-* [The Red Book](https://www.red-book.eu/m/documents/syssec_red_book.pdf): Systems security research roadmap, 2013.
 * [Ghidra: The Definitive Guide](https://www.amazon.com/product-reviews/1718501021): Key resource on the Ghidra reversing tool.
 * [Intro to Compilers & Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf): Brief book on compiler design, free.
 
