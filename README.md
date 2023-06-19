@@ -17,8 +17,8 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 </details>
 
 ### Books
-* [C Notes for Professionals](https://goalkicker.com/CBook) StackOverflow Documentation, abnormally good book, modern C. 2018?
-* [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) ok book.
+* [C Notes for Professionals](https://goalkicker.com/CBook) StackOverflow Documentation, ok book, C11. 2018?
+* [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) ok book, intermediate concepts, 2018.
 * [An Introduction to C & GUI Programming](https://magpi.raspberrypi.com/books/c-gui-programming) ok book, teaches C, then build a GUI with it in RPI.
 * [Learn to Code With C - Magpi Essentials](https://magpi.raspberrypi.com/books/essentials-c-v1) same author, only C, 2016. Recommends Geany. Good Primer? (90 pages)
 * [ModernC++ for Absolute Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522246/Slobodan.Dmitrovic.-.Modern.C%2B%2B.for.Absolute.Beginners_.A.Friendly.Introduction.to.C%2B%2B.Programming.Language.and.C%2B%2B11.to.C%2B%2B20.Standards-Apress.2020.pdf) Efficient.
