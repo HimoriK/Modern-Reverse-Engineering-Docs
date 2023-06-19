@@ -160,5 +160,6 @@ Stuff I haven't checked or put on the front page.
 * [Literally just some of the same resources](https://determined-pink-c50.notion.site/806c7afcbce24dc19e26fcd4b9c84f7b?v=21a0d4cde27942c48924ef5b078acc99)
 * [randomyt](https://www.youtube.com/c/BenEater/videos)
 * [Windows Security](http://www.cse.tkk.fi/fi/opinnot/T-110.6220/2014_Reverse_Engineering_Malware_AND_Mobile_Platform_Security_AND_Software_Security/luennot-files/T1106220.pdf) advanced, unclear slides.
+* [The Red Book](https://www.red-book.eu/m/documents/syssec_red_book.pdf): Systems security research roadmap, 2013.
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline 1997, leisurely, punch cards.
 * [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch 2011, learned Python? Learn C.
