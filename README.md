@@ -55,7 +55,7 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 ### Old
 * [Intro to Microprocessors and Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680): Brief reference, 2007.
 * [The Art of Unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf) [PDF]
-* [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) (Primer, learn GNU C), 2008 [Confirmed](https://www.gnu.org/savannah-checkouts/non-gnu/c-prog-book/)
+* [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) (Primer), 2008 [Confirmed](https://www.gnu.org/savannah-checkouts/non-gnu/c-prog-book/)
 
 ## Contribute
 Submissions must be current, interesting data with higher return on investment (no fluff).
