@@ -139,11 +139,9 @@ Stuff I haven't checked or put on the front page.
 * [Python Crash Course](https//nostarch.com/pythoncrashcourse2e) Learn Python from scratch (3rd edition is available) 
 * [Beyond the Basic Stuff with Python" by Al Sweigart](https://inventwithpython.com/beyond/) More advanced
 * [Python Programming Primer](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11782118/Python.Programming.Primer.pdf) > crash course? hands on
-* [Automate the Boring Stuff with Python](https//automatetheboringstuff.com/) seems boring, crash course probably better.
 * [The Coder's Apprentice Learning Programming with Python 3](https//www.spronck.net/pythonbook/pythonbook.pdf) interesting modern book, jun 2023
 * [Computational and Inferential Thinking](https//www.inferentialthinking.com/) ok book, intro to data science
-* [Python Data Science Handbook](https//jakevdp.github.io/PythonDataScienceHandbook/) has bad reviews
-* [The Big Book of Small Python Projects](https//inventwithpython.com/bigbook/) practical
+* [The Big Book of Small Python Projects](ttps//inventwithpython.com/bigbook/) practical
 
 
 ## Blogs+Forums
