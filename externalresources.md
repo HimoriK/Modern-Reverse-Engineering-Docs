@@ -136,16 +136,14 @@ Stuff I haven't checked or put on the front page.
 *Python* 
 
 * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) Quickly learn the basics
+* [Python Crash Course](https//nostarch.com/pythoncrashcourse2e) Learn Python from scratch (3rd edition is available) 
 * [Beyond the Basic Stuff with Python" by Al Sweigart](https://inventwithpython.com/beyond/) More advanced
-* [A Beginner's Python Tutorial by Wikibooks](https//en.wikibooks.org/wiki/Python_Programming) Covers everything from basic to advanced
-* [Automate the Boring Stuff with Python](https//automatetheboringstuff.com/) Automate tasks
-* [Python Crash Course](https//nostarch.com/pythoncrashcourse2e) Learn Python from scratch
-* [The Coder's Apprentice Learning Programming with Python 3](https//www.spronck.net/pythonbook/pythonbook.pdf) Learn programming with Python
-* [Computational and Inferential Thinking](https//www.inferentialthinking.com/)
-* [Python Data Science Handbook](https//jakevdp.github.io/PythonDataScienceHandbook/) Learn data science with Python
-* [Cracking Codes with Python](https//inventwithpython.com/cracking/)
-* [The Big Book of Small Python Projects](https//inventwithpython.com/bigbook/)
-* [Python for Data Analysis](https//www.oreilly.com/library/view/python-for-data/9781491957653/)
+* [Python Programming Primer](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11782118/Python.Programming.Primer.pdf) > crash course? hands on
+* [Automate the Boring Stuff with Python](https//automatetheboringstuff.com/) seems boring, crash course probably better.
+* [The Coder's Apprentice Learning Programming with Python 3](https//www.spronck.net/pythonbook/pythonbook.pdf) interesting modern book, jun 2023
+* [Computational and Inferential Thinking](https//www.inferentialthinking.com/) ok book, intro to data science
+* [Python Data Science Handbook](https//jakevdp.github.io/PythonDataScienceHandbook/) has bad reviews
+* [The Big Book of Small Python Projects](https//inventwithpython.com/bigbook/) practical
 
 
 ## Blogs+Forums
