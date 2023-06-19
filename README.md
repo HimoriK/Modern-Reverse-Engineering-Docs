@@ -20,7 +20,6 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [C Notes for Professionals](https://goalkicker.com/CBook) StackOverflow Documentation, ok book, C11. 2018?
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) ok book, intermediate concepts, 2018.
 * [Learn to Code With C](https://magpi.raspberrypi.com/books/essentials-c-v1) Recommends Geany, Good Primer? (90 pages)  2016.
-* [An Introduction to C & GUI Programming](https://magpi.raspberrypi.com/books/c-gui-programming) same author, ok book, teaches C, then builds a GUI with it in RPI. Recycled text, font/zoom sucks.
 * [ModernC++ for Absolute Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522246/Slobodan.Dmitrovic.-.Modern.C%2B%2B.for.Absolute.Beginners_.A.Friendly.Introduction.to.C%2B%2B.Programming.Language.and.C%2B%2B11.to.C%2B%2B20.Standards-Apress.2020.pdf) Efficient.
 * [Reverse Engineering for Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11470339/RE4B-EN.2023.pdf): Available in multiple languages, good resource for beginners.
 * [Programming from the Ground Up](https://www.amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1540831825): Uses x86 Linux assembly language on important concepts in programming, Princeton University, has sequel book by the author, 2016.
@@ -29,7 +28,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Architecture.)
 * [Intro to GCC](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522130/gccintro.pdf)
 * [Beej's Guide to Network Programming](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522150/bgnet_usl_bw_1.pdf) legendary free guide
-* [Beej's Guide to C Programming](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf) 
+* [Beej's Guide to C Programming](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf) *this is probably the best guide on C* 2023, professor has over 10yrs of experience.
 * [Computer Science I](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522155/ComputerScienceOne.pdf)
 * [Algorithms Refresh](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522196/Algorithms-JeffE-BW.pdf) Has notes, references, open source.
 * [ARM7-TDMI-manual-pt3](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522207/ARM7-TDMI-manual-pt3.pdf)
