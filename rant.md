@@ -48,6 +48,10 @@ Go is easier to learn than Rust due to simplicity, but it
 also has similiar effectiveness to Rust and C. (Meaning it's faster than
 Python). </details>
 
+Python is the most popular language in the world right now, but Julia can do the same things and is faster, with a potentially better syntax and documentation.
+Because of this, Python tutorials are saturated as everyone has an interest in data science right now, picking Python as a first language may be dangerous if it's 
+not for personal projects. Even with the simplicity of the language, many authors simply want to ride the stream of it's recent success. Perhaps pick a more general language?
+
 ### Funny quotes
 
 ``` The proper answer is never to utilize these skid forums and tutorials on how to "hack games". You might learn a little, but you will also learn many incorrect things. Don't be a victim of information pollution and people trying to monetize mediocre content. ```
