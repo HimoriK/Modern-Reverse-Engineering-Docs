@@ -75,9 +75,9 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 2. Make changes within that branch.
 3. Commit changes with clear notes and pull request.
 
-Any contributions are appreciated!
+Any contributions are appreciated! 
 
-Relevant topics:
+Relevant topics: [^Table of Contents](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs#table-of-contents)
 
 * C Programming
 * x86/64 Architecture
@@ -86,5 +86,3 @@ Relevant topics:
 * Linux API *Any
 * Reverse Engineering
 * Game Hacking
-
-[^Table of Contents](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs#table-of-contents)
