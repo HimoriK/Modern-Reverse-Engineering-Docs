@@ -90,4 +90,4 @@ Relevant topics:
 * Reverse Engineering
 * Game Hacking
 
-[Table-of-Contents](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs#table-of-contents)
+[^Table of Contents](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs#table-of-contents)
