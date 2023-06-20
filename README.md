@@ -1,7 +1,7 @@
 # Modern Reverse Engineering Docs
 Modern resources, collection curated based on reverse engineering systems (2018+). For beginners and intermediates.
 
-## ToC
+## Table of Contents
 
 - [Basics](#basics)
 - [Books](#books)
@@ -9,6 +9,7 @@ Modern resources, collection curated based on reverse engineering systems (2018+
 - [Extra](#extra)
 - [Tools](#tools)
 - [Old](#old)
+ See more in [external resources](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/externalresources.md) and [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/malwareanalysis.md).
 - [Contribute](#contribute)
 
 ## Basics
