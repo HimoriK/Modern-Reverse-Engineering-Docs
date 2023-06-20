@@ -3,7 +3,7 @@ Modern resources, collection curated based on reverse engineering systems (2018+
 
 ## Table of Contents
 
-# [Basics](#basics)
+  [Basics](#basics)
   [Books](#books)
   [Courses](#courses)
   [Extra](#extra)
