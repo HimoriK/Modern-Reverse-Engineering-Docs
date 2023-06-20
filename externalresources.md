@@ -1,7 +1,18 @@
 # External Resources
 Stuff I haven't checked or put on the front page.
 
-## Assembly and Reversing
+## Table of Contents
+
+  - [Reverse Engineering](#reverse-engineering)
+  - [Malware Analysis](#malware-analysis)
+  - [Extra](#extra)
+  - [Programming](#programming)
+  - [Blogs+Forums](#Blogs+Forums)
+  - [Old](old)
+
+Check [external resources](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/externalresources.md) + [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/malwareanalysis.md) for more.
+
+## Reverse Engineering
 * ['C/C++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/#fn:1) 
 * [How a cpu works](https://www.youtube.com/watch?v=cNN_tTXABUA) 20min, pros approve, 2013.
 * [Game Hacking Academy](https://gamehacking.academy/about) Current, free
@@ -100,7 +111,7 @@ Stuff I haven't checked or put on the front page.
 * [Hack a PDF with JavaScript](https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/) Might come in handy.
 * [RansomwareLive](https://ransomware.live/#/) Live testing site.
 
-### Relevant free programming books
+### Programming 
 
 *C*
 
