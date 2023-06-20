@@ -7,12 +7,9 @@ Modern resources, collection curated based on reverse engineering systems (2018+
   #### Table of Contents
 </summary>
 
-- [Basics](#basics)
 - [Books](#books)
 - [Courses](#courses)
-- [Extra](#extra)
 - [Tools](#tools)
-- [Old](#old)
 - [Contribute](#contribute)
 
 Check [external resources](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/externalresources.md) + [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/malwareanalysis.md) for more.
