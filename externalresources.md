@@ -7,8 +7,6 @@ Stuff I haven't checked or put on the front page.
   - [Malware Analysis](#malware-analysis)
   - [Extra](#extra)
   - [Programming](#programming)
-  - [Blogs+Forums](#Blogs+Forums)
-  - [Old](#old)
 
 Check [external resources](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/externalresources.md) + [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/malwareanalysis.md) for more.
 
