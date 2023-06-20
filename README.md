@@ -8,8 +8,10 @@ Modern resources, collection curated based on reverse engineering systems (2018+
 - [Courses](#courses)
 - [Extra](#extra)
 - [Tools](#tools)
-- [Old](#old)  more on [external resources](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/externalresources.md) + [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/malwareanalysis.md).
+- [Old](#old)
 - [Contribute](#contribute)
+
+Check [external resources](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/externalresources.md) + [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/malwareanalysis.md) for more.
 
 ## Basics
 There are different paths to learn reverse engineering. Any decent CS course involving computer architecture, CTFs, or browsing resources. Don't bother memorizing long libraries and functions, instead try to understand how a target's architecture works. Recommendation: read at least 2 of the books here, build an environment, pick preferred tools, then take a software apart methodically.
