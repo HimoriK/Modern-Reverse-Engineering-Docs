@@ -89,3 +89,5 @@ Relevant topics:
 * Linux API *Any
 * Reverse Engineering
 * Game Hacking
+
+[Table-of-Contents](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs#table-of-contents)
