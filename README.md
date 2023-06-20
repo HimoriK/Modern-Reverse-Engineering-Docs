@@ -4,7 +4,7 @@ Modern resources, collection curated based on reverse engineering systems (2018+
 <details>
   <summary>
     
-  #### *Table of Contents*
+  #### 'Table of Contents'
 </summary>
 
 - [Basics](#basics)
@@ -90,4 +90,4 @@ Relevant topics:
 * Reverse Engineering
 * Game Hacking
 
-[^^Table of Contents](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs#table-of-contents)
+[^Table of Contents](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs#table-of-contents)
