@@ -1,5 +1,15 @@
 # Modern Reverse Engineering Docs
-Modern resources, preferably from at least 2018.
+Modern resources, collection curated based on reverse engineering systems (2018+). For beginners and intermediates.
+
+## Contents
+
+- [Basics](#basics)
+- [Books](#books)
+- [Courses](#courses)
+- [Extra](#extra)
+- [Tools](#tools)
+- [Old](#old)
+- [Contribute](#contribute)
 
 ## Basics
 There are different paths to learn reverse engineering. Any decent CS course involving computer architecture, CTFs, or browsing resources. Don't bother memorizing long libraries and functions, instead try to understand how a target's architecture works. Recommendation: read at least 2 of the books here, build an environment, pick preferred tools, then take a software apart methodically.
@@ -46,7 +56,7 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 * [Lua StackOverflow Guide](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522164/lua.pdf) Brief, probably not very good
 * [Mastering Defensive Security](https://www.amazon.com/Mastering-Defensive-Security-techniques-infrastructure-ebook/dp/B09BZXC5SC): Random cybersecurity book.
 
-## Software & Libraries
+## Tools
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra): Software reverse engineering (SRE) framework by the NSA to analyze compiled code. Includes disassembly, decompilation, scripting, etc. Supports different instruction sets & plug-ins.
 * [Radare2](http://www.radare.org/): Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, uses cmdline, scriptable.
 * [x64dbg](http://x64dbg.com/): Open source x64/x32 Windows debugger.
@@ -57,9 +67,11 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 * [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) (Primer), 2008 [Confirmed](https://www.gnu.org/savannah-checkouts/non-gnu/c-prog-book/)
 
 ## Contribute
-Submissions must be current, interesting data with higher return on investment (no fluff).
-Any source before 2018 needs reference. Outdated information discouraged. Material for beginners and intermediates
-preferred, rare or difficult to find data encouraged.
+1. Fork the repo, make a new branch.
+2. Make changes within that branch.
+3. Commit changes with clear notes and pull request.
+
+Any contributions are appreciated!
 
 Relevant topics:
 
