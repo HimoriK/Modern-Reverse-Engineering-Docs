@@ -1,6 +1,6 @@
 # Modern Reverse Engineering Docs
 Modern resources, collection curated based on reverse engineering systems (2018+). For beginners and up.
-<details open>
+<details>
   <summary>
     
   #### Table of Contents
