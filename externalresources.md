@@ -118,12 +118,12 @@ Check [external resources](https://github.com/HimoriK/Modern-Reverse-Engineering
 * [Learn to Code With C](https://magpi.raspberrypi.com/books/essentials-c-v1) Recommends Geany. Good Primer? (90 pages) 2016.
 * [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) (Primer, learn GNU C), 2008 [Confirmed](https://www.gnu.org/savannah-checkouts/non-gnu/c-prog-book/)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
-* [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
-* [Build Your Own Redis with C/C++](https://build-your-own.org) - build-your-own.org (HTML) (:construction: *in process*)
+* [Beej's Guide to C Programming](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf) wordy, use v2 reference instead.
+* [Build Your Own Redis with C/C++](https://build-your-own.org) build-your-own.org (HTML) (:construction: *in process*)
 * [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/) bootcamp 2012, describes data types/easy examples, neat
-* [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - Nick Parlante (PDF) C short ref
+* [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) C short ref, **2003**. Probably better quickrefs now
 * [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/) brief, pointers only guide, 2010.
-* [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) - CodeAhoy (HTML) (looks neat, good resource maybe)
+* [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) looks neat, good resource maybe
 * [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (this might be a good book, even though it's old.) 2009. 
 * [Megalist Wiki](https://www.wikiod.com/c/getting-started-with-c-language/) Massive Wiki of programming info from stackoverflow documentation. (bad, only archived)
 * [Learn ANSI-C](https://dl.icdst.org/pdfs/files/c340d163f17673b5a4d4c0b12301dadf.pdf) Old C standard, may have values, references K&R. 1990s?
