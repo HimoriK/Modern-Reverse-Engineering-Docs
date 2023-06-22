@@ -21,7 +21,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
   
 - *Debugger* - sequence through program assembly 
 - *Disassembler* - retrieves the bulk program assembly 
-- *Decompiler* - revert a program to it's source code (if the source is known)
+- *Decompiler* - reverts a program to it's source code (if the source is known)
 </details>
 
 * [Reverse Engineering 101](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/) Start here, if this is too difficult, run.
