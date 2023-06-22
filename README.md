@@ -19,7 +19,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 
 <details open><summary>Terms for common tools</summary>
   
-- *Debugger* - sequence through program assembly interactively
+- *Debugger* - sequence through program assembly 
 - *Disassembler* - retrieves the bulk program assembly 
 - *Decompiler* - revert a program to it's source code (if the source is known)
 </details>
