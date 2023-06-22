@@ -31,7 +31,8 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 </details>
 
 ### Books
-* [Beej's Guide to C Programming](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf) *probably the best guide on C*, professor has 10+yrs of experience, 2023.
+* [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) Primer, 2008. Intro to open source C
+* [C Notes for Professionals](https://goalkicker.com/CBook) Compiled from StackOverflow Documentation, ok book C11, 2018?
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) ok book, intermediate concepts, 2018.
 * [Learn to Code With C](https://magpi.raspberrypi.com/books/essentials-c-v1) Recommends Geany, Good Beginner Primer (90 pages)  2016.
 * [ModernC++ for Absolute Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522246/Slobodan.Dmitrovic.-.Modern.C%2B%2B.for.Absolute.Beginners_.A.Friendly.Introduction.to.C%2B%2B.Programming.Language.and.C%2B%2B11.to.C%2B%2B20.Standards-Apress.2020.pdf) Efficient.
@@ -51,6 +52,8 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 * [Intro to Compilers & Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf): Brief book on compiler design, free.
 
 ### Courses
+* [Programming + Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) organized, good resource maybe
+* [Intro to Algorithms](https://codeahoy.com/learn/analysisofalgorithms/ch1/)
 * [Reverse Engineering Malware Unicorn](https://malwareunicorn.org/workshops/re101.html#0)
 * [Windows Exploit Development](https://www.securitysift.com/windows-exploit-development-part-1-basics/) 2013, series, will replace later.
 
