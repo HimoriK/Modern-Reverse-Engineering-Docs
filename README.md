@@ -52,7 +52,7 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 * [Intro to Compilers & Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf): Brief book on compiler design, free.
 
 ### Courses
-* [Programming + Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) organized, good resource maybe
+* [Programming + Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) neat, good resource?
 * [Intro to Algorithms](https://codeahoy.com/learn/analysisofalgorithms/ch1/)
 * [Reverse Engineering Malware Unicorn](https://malwareunicorn.org/workshops/re101.html#0)
 * [Windows Exploit Development](https://www.securitysift.com/windows-exploit-development-part-1-basics/) 2013, series, will replace later.
