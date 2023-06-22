@@ -3,7 +3,7 @@ Modern resources, collection curated based on reverse engineering systems (2018+
 <details>
   <summary>
     
-  #### Table of Contents
+  ### Table of Contents
 </summary>
 
 - [Books](#books)
@@ -17,7 +17,7 @@ Check [external resources](https://github.com/HimoriK/Modern-Reverse-Engineering
 ## Basics
 There are different paths to learn reverse engineering. Any decent CS course involving computer architecture, CTFs, or browsing resources. Don't bother memorizing long libraries and functions, instead try to understand how a target's architecture works. Recommendation: read at least 2 of the books here, build an environment, pick preferred tools, then take a software apart methodically.
 
-<details><summary>Terms for common tools</summary>
+<details open><summary>Terms for common tools</summary>
   
 - *Debugger* - sequence through program assembly interactively
 - *Disassembler* - retrieves the bulk program assembly 
