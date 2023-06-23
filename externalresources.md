@@ -167,6 +167,7 @@ Check [external resources](https://github.com/HimoriK/Modern-Reverse-Engineering
 * [Learning assembly for linux-x64](https://github.com/0xAX/asm) english/chi is pretty bad, but is legible I think, they tried. 2020
 * [x86 microcode, but might have been afraid to ask](https://media.ccc.de/v/34c3-9058-everything_you_want_to_know_about_x86_microcode_but_might_have_been_afraid_to_ask) advanced, 2017
 * [Literally just some of the same resources](https://determined-pink-c50.notion.site/806c7afcbce24dc19e26fcd4b9c84f7b?v=21a0d4cde27942c48924ef5b078acc99)
+* [Beej's Guide to Network Programming](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522150/bgnet_usl_bw_1.pdf) free guide, sockets
 * [randomyt](https://www.youtube.com/c/BenEater/videos)
 * [Windows Security](http://www.cse.tkk.fi/fi/opinnot/T-110.6220/2014_Reverse_Engineering_Malware_AND_Mobile_Platform_Security_AND_Software_Security/luennot-files/T1106220.pdf) advanced, unclear slides.
 * [The Red Book](https://www.red-book.eu/m/documents/syssec_red_book.pdf): Systems security research roadmap, 2013.
