@@ -31,7 +31,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [CTF Guide #1](https://trailofbits.github.io/ctf/) [& #2](https://github.com/ctf-wiki/ctf-wiki)
 
 ### Books
-* [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) Primer, 2008. Intro to open source C
+* [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) **Primer** to open source C, 2008.
 * [C Notes for Professionals](https://goalkicker.com/CBook) Compiled from StackOverflow Documentation, ok book C11, 2018?
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) ok book, intermediate concepts, 2018.
 * [Learn to Code With C](https://magpi.raspberrypi.com/books/essentials-c-v1) Recommends Geany, Good Beginner Primer (90 pages)  2016.
@@ -42,7 +42,6 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [Blue Fox: Arm & Reverse Engineering](https://www.amazon.com/Blue-Fox-Assembly-Internals-Analysis/dp/1119745306): Introduces reverse engineering concepts such as binary analysis
 and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Architecture.)
 * [Intro to GCC](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522130/gccintro.pdf)
-* [Beej's Guide to Network Programming](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522150/bgnet_usl_bw_1.pdf) legendary free guide
 * [C Notes for Professionals](https://goalkicker.com/CBook) StackOverflow Documentation, ok book, C11. 2018?
 * [Computer Science I](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522155/ComputerScienceOne.pdf)
 * [Algorithms Refresh](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522196/Algorithms-JeffE-BW.pdf) Has notes, references, open source.
