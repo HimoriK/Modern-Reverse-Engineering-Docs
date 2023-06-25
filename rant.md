@@ -54,6 +54,10 @@ not for personal projects. Even with the simplicity of the language, many author
 
 ### Funny quotes
 
+` I threw it away. I resent the entire premise of being asked stupid coding puzzles that have nothing to do with the job at hand.
+
+I've interviewed at Google, Facebook, Amazon, Spotify, Microsoft and a dozen other smaller companies. Got rejected from some, got offers from others, now I'm an engineering manager at one of them. I still think coding interviews are a scourge on this industry that select the types of people that study coding problems instead of how to write and deliver good software.`
+
 ``` The proper answer is never to utilize these skid forums and tutorials on how to "hack games". You might learn a little, but you will also learn many incorrect things. Don't be a victim of information pollution and people trying to monetize mediocre content. ```
 
   * Learn [cpp](https://www.learncpp.com/)
