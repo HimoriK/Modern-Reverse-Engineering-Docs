@@ -54,7 +54,7 @@ not for personal projects. Even with the simplicity of the language, many author
 
 ### Funny quotes
 
-``` I threw it away. I resent the entire premise of being asked stupid coding puzzles that have nothing to do with the job at hand. I've interviewed at Google, Facebook, Amazon, Spotify, Microsoft and a dozen other smaller companies. Got rejected from some, got offers from others, now I'm an engineering manager at one of them. I still think coding interviews are a scourge on this industry that select the types of people that study coding problems instead of how to write and deliver good software.```
+> I threw it away. I resent the entire premise of being asked stupid coding puzzles that have nothing to do with the job at hand. I've interviewed at Google, Amazon, Microsoft and a dozen other smaller companies. Got rejected from some, got offers from others, now I'm an engineering manager at one of them. I still think coding interviews are a scourge on this industry that select the types of people that study coding problems instead of how to write and deliver good software.
 
 ``` The proper answer is never to utilize these skid forums and tutorials on how to "hack games". You might learn a little, but you will also learn many incorrect things. Don't be a victim of information pollution and people trying to monetize mediocre content. ```
 
@@ -66,3 +66,11 @@ not for personal projects. Even with the simplicity of the language, many author
   * Eventually, pick up some assembly 
 
 > The solution is easy; do not use Windows. 
+
+> I am convinced that 90% of all computer books are written to obscure a fairly straightforward subject, and [this one](https://www.amazon.com/product-reviews/1118290275) is no exception. Computerese, like mathematical rigor, resents the practical nature of its chosen study. Turing proved way back that an extremely abbreviated constellation of computational constructs can solve any problem -- and the world's mathematically inclined but equally *moronic* fools have, ever since, labored hard and diligently to heap confusion over this simplicity. Ever wonder why your applications are so frustrating, and seem to become moreso with every update and reincarnation? Read this book. 
+
+> The complexity is unnecessary. A good technical book must be either crystal clear or extremely accurate. To be dense and careless is unfair to the reader, who must take the time to decode each and every word carefully in order to determine the meaning.
+
+> What one fool can do, another can. And, in mathematics, *we are all fools..*
+
+> In theory, practice and theory are the same. In practice, they're different.
