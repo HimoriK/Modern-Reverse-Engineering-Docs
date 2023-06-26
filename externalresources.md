@@ -8,7 +8,7 @@ Stuff I haven't checked or put on the front page.
   - [Extra](#extra)
   - [Programming](#programming)
 
-Check [external resources](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/externalresources.md) + [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/malwareanalysis.md) for more.
+Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/malwareanalysis.md) for more.
 
 ## Reverse Engineering
 * ['C/C++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/#fn:1) 
@@ -151,6 +151,9 @@ Check [external resources](https://github.com/HimoriK/Modern-Reverse-Engineering
 * [Computational and Inferential Thinking](https://www.inferentialthinking.com/) ok book, intro to data science
 * [The Big Book of Small Python Projects](https://inventwithpython.com/bigbook/) practical
 
+### Mathematics
+
+* [Awesome Math](https://github.com/HimoriK/awesome-math)
 
 ## Blogs+Forums
 * [Packetsecurity](https://packetstormsecurity.com/)
