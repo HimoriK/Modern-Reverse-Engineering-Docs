@@ -4,7 +4,7 @@ Stuff I haven't checked or put on the front page.
 ## Table of Contents
 
   - [Reverse Engineering](#reverse-engineering)
-  - [Malware Analysis](#malware-analysis)
+  - [Malware Auditing](#malware-auditing)
   - [Extra](#extra)
   - [Programming](#programming)
 
@@ -53,7 +53,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [x86-assembly-cheat](https://github.com/cirosantilli/x86-assembly-cheat) 
 * [Advanced Systems Coursebook](https://github.com/illinois-cs241/coursebook/blob/pdf_deploy/main.pdf) - Advanced systems programming by Urbana-Champaign 
 
-### Malware Analysis
+### Malware Auditing
 * [Malware Analysis Tools](https://github.com/rshipp/awesome-malware-analysis) op has agenda, use caution.
 * [CTF Reversing Challenges List](https://github.com/N4NU/Reversing-Challenges-List) random with difficulty rankings.
 * [Best Malware Analysis Tools | Learn Malware Analysis](https://www.youtube.com/watch?v=Wh_DJTaDq6U) 10min vid
@@ -121,15 +121,12 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Beej's Guide to C Programming](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf) wordy, use v2 reference instead.
 * [Build Your Own Redis with C/C++](https://build-your-own.org) build-your-own.org (HTML) (:construction: *in process*)
 * [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/) bootcamp 2012, describes data types/easy examples, neat
-* [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) C short ref, **2003**. Probably better quickrefs now
 * [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/) brief, pointers only guide, 2010.
 * [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) looks neat, good resource maybe
 * [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (this might be a good book, even though it's old.) 2009. 
-* [Megalist Wiki](https://www.wikiod.com/c/getting-started-with-c-language/) Massive Wiki of programming info from stackoverflow documentation. (bad, only archived)
-* [Learn ANSI-C](https://dl.icdst.org/pdfs/files/c340d163f17673b5a4d4c0b12301dadf.pdf) Old C standard, may have values, references K&R. 1990s?
 * [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (easy intro) 2013.
 * [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess, Ron Hale-Evans (PDF) 2002, very in depth though. GNU will always be useful, though this book is outdated.
-* [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - Trevis Rothwell, James Youngman (HTML) [(PDF)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf) 2015.
+* [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)- Trevis Rothwell, James Youngman 2015.
 * [The little book about OS development](https://ordoflammae.github.io/littleosbook/book.pdf) Nice little x86 OS dev book, might be useful later, current.
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 
@@ -153,7 +150,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 
 ### Mathematics
 
-* [Awesome Math](https://github.com/HimoriK/awesome-math)
+* [Awesome Math](https://github.com/HimoriK/awesome-math) * in progress *
 
 ## Blogs+Forums
 * [Packetsecurity](https://packetstormsecurity.com/)
@@ -173,6 +170,6 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Beej's Guide to Network Programming](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522150/bgnet_usl_bw_1.pdf) free guide, sockets
 * [randomyt](https://www.youtube.com/c/BenEater/videos)
 * [Windows Security](http://www.cse.tkk.fi/fi/opinnot/T-110.6220/2014_Reverse_Engineering_Malware_AND_Mobile_Platform_Security_AND_Software_Security/luennot-files/T1106220.pdf) advanced, unclear slides.
-* [The Red Book](https://www.red-book.eu/m/documents/syssec_red_book.pdf): Systems security research roadmap, 2013.
+* [The Red Book](https://www.red-book.eu/m/documents/syssec_red_book.pdf): Systems security research article, 2013.
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline 1997, leisurely, punch cards.
 * [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch 2011, learned Python? Learn C.
