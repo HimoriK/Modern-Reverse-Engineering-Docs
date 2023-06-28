@@ -26,7 +26,6 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [x86_64 Linux Assembly](https://www.youtube.com/playlist?list=PLetF-YjXm-sCH6FrTz4AQhfH6INDQvQSn) ok, 2016
 * [Intro x86](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
 * [A gentle introduction into ARM assembly](https://www.shadowinfosec.io/2018/05/a-gentle-introduction-into-arm-assembly.html)
-* [Applied Reverse Engineering Series](https://revers.engineering/applied-reverse-engineering-series/)
 * [“Must Have” Free Resources for Malware Analysis](https://securityboulevard.com/2020/06/must-have-free-resources-for-malware-analysis/)
 * [Reverse Engineering](https://ctf101.org/reverse-engineering/overview/)
 * [Binary Analysis Course](https://maxkersten.nl/binary-analysis-course/) Beginner course
