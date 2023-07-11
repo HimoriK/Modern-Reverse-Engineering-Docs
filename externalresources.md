@@ -150,6 +150,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 ### Mathematics
 
 * [Awesome Math](https://github.com/HimoriK/awesome-math) * in progress *
+* Consider reading or [Ali Grami's](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/12018347/Ali.Grami-Discrete.Mathematics.Essentials.pdf) discrete math book, or Mark Levin's Open Source book(dry), there is also the book by Epp's. I prefer the one by [Peter Grossman](https://www.amazon.com/Discrete-Mathematics-Computing-Peter-Grossman/dp/0230216110) however as a concise intro.
 
 ## Blogs+Forums
 * [Packetsecurity](https://packetstormsecurity.com/)
