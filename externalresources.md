@@ -139,18 +139,16 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 
 *Python*
 
-* [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) Quickly learn the basics
 * [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) Learn Python from scratch, 3rd edition is available
 * [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) More advanced
 * [Python Programming Primer](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11782118/Python.Programming.Primer.pdf) better crash course? hands on
 * [The Coder's Apprentice Learning Programming with Python 3](https://www.spronck.net/pythonbook/pythonbook.pdf) interesting modern book, jun 2023
 * [Computational and Inferential Thinking](https://www.inferentialthinking.com/) ok book, intro to data science
-* [The Big Book of Small Python Projects](https://inventwithpython.com/bigbook/) practical
 
 ### Mathematics
 
 * [Awesome Math](https://github.com/HimoriK/awesome-math) * in progress *
-* Consider reading or [Ali Grami's](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/12018347/Ali.Grami-Discrete.Mathematics.Essentials.pdf) discrete math book, or Mark Levin's Open Source book(dry), there is also the book by Epp's. I prefer the one by [Peter Grossman](https://www.amazon.com/Discrete-Mathematics-Computing-Peter-Grossman/dp/0230216110) however as a concise intro.
+* Consider reading or [Ali Grami's](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/12018347/Ali.Grami-Discrete.Mathematics.Essentials.pdf) discrete math book, or Mark Levin's Open Source book(dry), there is also the book by Epp's.[Peter Grossman](https://www.amazon.com/Discrete-Mathematics-Computing-Peter-Grossman/dp/0230216110) has a good book for the non-technical.
 
 ## Blogs+Forums
 * [Packetsecurity](https://packetstormsecurity.com/)
