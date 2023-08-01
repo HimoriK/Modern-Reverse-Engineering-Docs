@@ -66,14 +66,11 @@ not for personal projects. Even with the simplicity of the language, many author
   * Eventually, pick up some assembly 
 
 > The solution is easy; do not use Windows. 
-<pre> 
-I am convinced that 90% of all computer books are written to obscure a fairly straightforward subject, and 
-<a href="https://www.amazon.com/product-reviews/1118290275">this one</a> is no exception. Computerese, like 
-mathematical rigor, resents the practical nature of its chosen study. Turing proved way back that an extremely 
-abbreviated constellation of computational constructs can solve any problem -- and the world's mathematically 
-inclined but equally <em>moronic</em> fools have, ever since, labored hard and diligently to heap confusion over 
-this simplicity. Ever wonder why your applications are so frustrating, and seem to become moreso with every update 
-and reincarnation? Read this book.
+<pre>I am convinced that 90% of all computer books are written to obscure a fairly straightforward subject, and <a href="https://www.amazon.com/product-reviews/1118290275">this one</a> is no 
+exception. Computerese, like mathematical rigor, resents the practical nature of its chosen study. Turing proved way back 
+that an extremely abbreviated constellation of computational constructs can solve any problem -- and the world's mathematically 
+inclined but equally <em>moronic</em> fools have, ever since, labored hard and diligently to heap confusion over this simplicity. 
+Ever wonder why your applications are so frustrating, and seem to become moreso with every update and reincarnation? Read this book.
 </pre> 
 
 ```The complexity is unnecessary. A good technical book must be either **crystal clear** or *extremely accurate*. To be dense and careless is unfair to the reader, who must take the time to decode each and every word carefully in order to determine the meaning.```
