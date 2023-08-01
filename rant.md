@@ -66,7 +66,6 @@ not for personal projects. Even with the simplicity of the language, many author
   * Eventually, pick up some assembly 
 
 > The solution is easy; do not use Windows. 
-
 <pre> 
 I am convinced that 90% of all computer books are written to obscure a fairly straightforward subject, and 
 <a href="https://www.amazon.com/product-reviews/1118290275">this one</a> is no exception. Computerese, like 
