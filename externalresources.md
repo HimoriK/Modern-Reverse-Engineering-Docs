@@ -95,10 +95,12 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [SecurityTube GDB Expert Playlist](https://www.youtube.com/playlist?list=PLiP0FxVgYuUz0kdK7L7YaI5n4qkOuymue) old, but GDB tuts are rare, 2013.
 * [Where are all the hackers?](https://morepablo.com/2023/05/where-have-all-the-hackers-gone.html) good article on programming hassles/differences.
 * [Python is slow](https://peter-jp-xie.medium.com/how-slow-is-python-compared-to-c-3795071ce82a) good article on why to use python for utility, not performance.
+* [Grugbrained Developer](https://grugbrain.dev/) Programming guide for the intellectually 'stable' deficient masses
 * [pypy & cython better](https://www.pypy.org/) pypy and cython sacrifice compatibility and ease for speed. 
 * [PeachPy](https://github.com/Maratyszcza/PeachPy): Portable, efficient assembly code-generator in higher-level python.
 * [WhyJulia](https://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia) Julia potentially faster than C.
 * [reddit/favcsyoutuber](https://www.reddit.com/r/hacking/comments/nj68g2/which_is_your_favourite_cybersecurity_youtube/)
+* [C++ CodeTechandTutorials](https://www.youtube.com/@CodeTechandTutorials) Good general C++ and coding channel.
 * [x86-64 Assembly Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
 * [6502 ASM Tutorial](https://skilldrick.github.io/easy6502/index.html) alternative approach for beginners. X86 is written by compilers, 6502 is easier for academic purposes.
 * [Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/)
