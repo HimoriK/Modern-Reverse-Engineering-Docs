@@ -13,6 +13,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 ## Reverse Engineering
 * ['C/C++' aren't the same](https://brycevandegrift.xyz/blog/stop-saying-c-and-c++/#fn:1) 
 * [How a cpu works](https://www.youtube.com/watch?v=cNN_tTXABUA) 20min, pros approve, 2013.
+* [Getting started as a beginner](https://youtu.be/DFHug3Nq7eU?t=106) brief on the basics
 * [Game Hacking Academy](https://gamehacking.academy/about) Current, free
 * [Reversing Course](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 * [Wannabe Malware Analyst](https://blog.malwarebytes.com/security-world/2012/09/so-you-want-to-be-a-malware-analyst/)
