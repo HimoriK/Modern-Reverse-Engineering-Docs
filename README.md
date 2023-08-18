@@ -32,9 +32,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 
 ### Books
 * [GNU C Intro](https://www.cs.unibo.it/~renzo/doc/C/c.pdf) Complete, can be used as reference
-* [C Notes for Professionals](https://goalkicker.com/CBook) Compiled from StackOverflow Documentation, ok book C11, 2018?
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) ok book, intermediate concepts, 2018.
-* [Learn to Code With C](https://magpi.raspberrypi.com/books/essentials-c-v1) Recommends Geany, Good Beginner Primer (90 pages)  2016.
 * [ModernC for Absolute Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11929599/Modern_C_for_Absolute_Beginners.pdf)
 * [ModernC++ for Absolute Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11929600/Modern.C%2B%2B.for.Absolute.Beginners.pdf) Efficient.
 * [Reverse Engineering for Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11470339/RE4B-EN.2023.pdf): Available in multiple languages, good resource for beginners.
@@ -42,8 +40,6 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [Learn to Program with Assembly](https://www.amazon.com/Learn-Program-Assembly-Foundational-Programmers/dp/1484274369): Teaches x86-64 with Linux assembly language, 2021.
 * [Blue Fox: Arm & Reverse Engineering](https://www.amazon.com/Blue-Fox-Assembly-Internals-Analysis/dp/1119745306): Introduces reverse engineering concepts such as binary analysis
 and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Architecture.)
-* [Intro to GCC](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522130/gccintro.pdf)
-* [C Notes for Professionals](https://goalkicker.com/CBook) StackOverflow Documentation, ok book, C11. 2018?
 * [Computer Science I](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522155/ComputerScienceOne.pdf)
 * [Algorithms Refresh](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522196/Algorithms-JeffE-BW.pdf) Has notes, references, open source.
 * [ARM7-TDMI-manual-pt3](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522207/ARM7-TDMI-manual-pt3.pdf)
