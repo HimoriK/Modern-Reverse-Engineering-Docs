@@ -31,6 +31,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [CTF Guide #1](https://trailofbits.github.io/ctf/) [& #2](https://github.com/ctf-wiki/ctf-wiki)
 
 ### Books
+* [Intro to C and Software Design](https://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf) Good, 2005
 * [GNU C Intro](https://www.cs.unibo.it/~renzo/doc/C/c.pdf) Complete, can be used as reference
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) ok book, intermediate concepts, 2018.
 * [ModernC for Absolute Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11929599/Modern_C_for_Absolute_Beginners.pdf)
