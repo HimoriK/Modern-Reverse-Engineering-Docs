@@ -34,7 +34,8 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [Intro to C and Software Design](https://www-personal.acfr.usyd.edu.au/tbailey/ctext/ctext.pdf) Good, 2005
 * [GNU C Intro](https://www.cs.unibo.it/~renzo/doc/C/c.pdf) Complete, can be used as reference
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) ok book, intermediate concepts, 2018.
-* [ModernC for Absolute Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11929599/Modern_C_for_Absolute_Beginners.pdf)
+* [Modern C for Absolute Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/12445479/Modern.C.for.Absolute.Beginners.pdf)
+
 * [ModernC++ for Absolute Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11929600/Modern.C%2B%2B.for.Absolute.Beginners.pdf) Efficient.
 * [Reverse Engineering for Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11470339/RE4B-EN.2023.pdf): Available in multiple languages, good resource for beginners.
 * [Programming from the Ground Up](https://www.amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1540831825): Uses x86 Linux assembly language on important concepts in programming, Princeton University, has sequel book by the author, 2016.
