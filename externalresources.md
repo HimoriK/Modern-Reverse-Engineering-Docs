@@ -151,7 +151,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 ### Mathematics
 
 * [Awesome Math](https://github.com/HimoriK/awesome-math) * in progress *
-* Consider reading or [Ali Grami's](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/12018347/Ali.Grami-Discrete.Mathematics.Essentials.pdf) discrete math book, or Mark Levin's Open Source book(dry), there is also the book by Epp's.[Peter Grossman](https://www.amazon.com/Discrete-Mathematics-Computing-Peter-Grossman/dp/0230216110) has a good book for the non-technical.
+* Consider reading [Mark Levin's](https://discrete.openmathbooks.org/dmoi3.html) Open Source book(dry) or [Ali Grami's](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/12641782/DiscreteM3.2023.pdf) discrete math book, there is also the book by Epp's.[Peter Grossman](https://www.amazon.com/Discrete-Mathematics-Computing-Peter-Grossman/dp/0230216110) has a good book for the non-technical. You need Linear Algebra, Statistics, and eventually Calculus and Number Theory. Learn as much math as possible.
 
 ## Blogs+Forums
 * [Packetsecurity](https://packetstormsecurity.com/)
