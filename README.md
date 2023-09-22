@@ -54,19 +54,30 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 * [Reverse Engineering Malware Unicorn](https://malwareunicorn.org/workshops/re101.html#0)
 * [Windows Exploit Development](https://www.securitysift.com/windows-exploit-development-part-1-basics/) 2013, series, will replace later.
 
+<details>
+  <summary>
+    
+### Videos
+</summary>
+* [FreeCodeCamp ARM Assembly Tutorial](https://youtu.be/gfmRrPjnEw4) 2 hours, decent probably
+* [MIPS Assembly Tutorial](https://youtu.be/BlOLrVo4Nkk?list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A) rare enthusiasm, might be good
+* [C Tutorial Series](https://www.youtube.com/watch?v=zPObUTmiCzk&list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif&index=3) bloat, decent though
+</details>
+
 ### Extra
-* [Implementing Reverse Engineering](https://www.amazon.com/product-reviews/B09DT5N5JP): Haven't read this, sample seems ok.
-* [Game Boy Coding Adventure](https://www.amazon.com/Game-Boy-Coding-Adventure-programming-ebook/dp/B0B7FY5576): Brief but informative game boy hacking book, 2021.
+* [Implementing Reverse Engineering](https://www.amazon.com/product-reviews/B09DT5N5JP) Haven't read this, sample seems ok.
+* [Game Boy Coding Adventure](https://www.amazon.com/Game-Boy-Coding-Adventure-programming-ebook/dp/B0B7FY5576) Brief but informative game boy hacking book, 2021.
 * [Lua StackOverflow Guide](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522164/lua.pdf) Brief, probably not very good
-* [Mastering Defensive Security](https://www.amazon.com/Mastering-Defensive-Security-techniques-infrastructure-ebook/dp/B09BZXC5SC): Random cybersecurity book.
+* [Mastering Defensive Security](https://www.amazon.com/Mastering-Defensive-Security-techniques-infrastructure-ebook/dp/B09BZXC5SC) Random cybersecurity book.
+* [Stable Diffusion FreeCC Tutorial](https://youtu.be/dMkiOex_cKU) Handy
 
 ## Tools
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra): Software reverse engineering (SRE) framework by the NSA to analyze compiled code. Includes disassembly, decompilation, scripting, etc. Supports different instruction sets & plug-ins.
-* [Radare2](http://www.radare.org/): Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, uses cmdline, scriptable.
-* [x64dbg](http://x64dbg.com/): Open source x64/x32 Windows debugger.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) Software reverse engineering (SRE) framework by the NSA to analyze compiled code. Includes disassembly, decompilation, scripting, etc. Supports different instruction sets & plug-ins.
+* [Radare2](http://www.radare.org/) Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, uses cmdline, scriptable.
+* [x64dbg](http://x64dbg.com/) Open source x64/x32 Windows debugger.
 
 ### Old
-* [Intro to Microprocessors and Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680): Brief reference, 2007.
+* [Intro to Microprocessors and Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680) Brief reference, 2007.
 * [The Art of Unpacking](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf) [PDF]
 * [Programming for Humans](https://youtu.be/Mr3WTR0a5SM) literate programming, make code easy to understand as it's written
 
