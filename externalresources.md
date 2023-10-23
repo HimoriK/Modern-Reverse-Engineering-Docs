@@ -120,7 +120,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Learn to Code With C](https://magpi.raspberrypi.com/books/essentials-c-v1) Recommends Geany. Good Primer? (90 pages) 2016.
 * [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) (Primer, learn GNU C), 2008 [Confirmed](https://www.gnu.org/savannah-checkouts/non-gnu/c-prog-book/)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
-* [Beej's Guide to C Programming](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf) wordy, use v2 reference instead.
+* ~~[Beej's Guide to C Programming](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf) wordy, use v2 reference instead.~~
 * [Build Your Own Redis with C/C++](https://build-your-own.org) build-your-own.org (HTML) (:construction: *in process*)
 * [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/) bootcamp 2012, describes data types/easy examples, neat
 * [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/) brief, pointers only guide, 2010.
@@ -150,7 +150,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 
 ### Mathematics
 
-* [Awesome Math](https://github.com/HimoriK/awesome-math) * in progress *
+* [Super Math](https://github.com/HimoriK/super-math) * in progress *
 * Consider reading [Mark Levin's](https://discrete.openmathbooks.org/dmoi3.html) Open Source book(dry) or [Ali Grami's](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/12641782/DiscreteM3.2023.pdf) discrete math book, there is also the book by Epp's.[Peter Grossman](https://www.amazon.com/Discrete-Mathematics-Computing-Peter-Grossman/dp/0230216110) has a good book for the non-technical. You need Linear Algebra, Statistics, and eventually Calculus and Number Theory. Learn as much math as possible.
 
 ## Blogs+Forums
