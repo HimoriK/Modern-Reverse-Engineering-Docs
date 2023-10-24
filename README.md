@@ -76,7 +76,7 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 ## Tools
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra) Software reverse engineering (SRE) framework by the NSA to analyze compiled code. Includes disassembly, decompilation, scripting, etc. Supports different instruction sets & plug-ins.
 * [Radare2](http://www.radare.org/) Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, uses cmdline, scriptable.
-* [010 Editor](https://www.sweetscape.com/010editor/) Best Proprietary Hex Editor, great for binary analysis. Free alternative is [HxD](https://mh-nexus.de/en/hxd/), [Bless](https://github.com/afrantzis/bless), or [ImHex](https://github.com/WerWolv/ImHex)(not mature yet)
+* [010 Editor](https://www.sweetscape.com/010editor/) Best Proprietary Hex Editor, great for binary analysis. Free editor is: [HxD](https://mh-nexus.de/en/hxd/), [Bless](https://github.com/afrantzis/bless), or [ImHex](https://github.com/WerWolv/ImHex)
 * [x64dbg](http://x64dbg.com/) Open source x64/x32 Windows debugger.
 
 ### Old
