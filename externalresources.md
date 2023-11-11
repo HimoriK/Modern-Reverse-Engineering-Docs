@@ -51,8 +51,9 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Tool review](https://www.pelock.com/articles/reverse-engineering-tools-review)
 * [Go Reverse Engineering ToolKit](https://go-re.tk/)
 * [x86 Assembly Crash Course → YouTube](https://www.youtube.com/watch?v=75gBFiFtAb8) The first search on youtube.
-* [x86-assembly-cheat](https://github.com/cirosantilli/x86-assembly-cheat) 
-* [Advanced Systems Coursebook](https://github.com/illinois-cs241/coursebook/blob/pdf_deploy/main.pdf) - Advanced systems programming by Urbana-Champaign 
+* [x86-assembly-cheat](https://github.com/cirosantilli/x86-assembly-cheat)
+* [Helnski x86 PowerPoints](https://courses.ics.hawaii.edu/ReviewICS312/modules/)
+* [Advanced Systems Coursebook](https://github.com/illinois-cs241/coursebook/blob/pdf_deploy/main.pdf) - Advanced systems programming by Urbana-Champaign
 
 ### Malware Auditing
 * [Malware Analysis Tools](https://github.com/rshipp/awesome-malware-analysis) op has agenda, use caution.
