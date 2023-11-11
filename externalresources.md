@@ -7,6 +7,7 @@ Stuff I haven't checked or put on the front page.
   - [Malware Auditing](#malware-auditing)
   - [Extra](#extra)
   - [Programming](#programming)
+  - [History](#history)
 
 Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/blob/main/malwareanalysis.md) for more.
 
@@ -174,3 +175,11 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [The Red Book](https://www.red-book.eu/m/documents/syssec_red_book.pdf): Systems security research article, 2013.
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline 1997, leisurely, punch cards.
 * [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch 2011, learned Python? Learn C.
+
+## History
+
+* [Ada Lovelace](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer) English mathematician (1815–1852)
+* [Who is credited for the creation of Assembly Language?](https://retrocomputing.stackexchange.com/a/6323) Various creations, Nathaniel Rochester developed the IBM 701 in 1954
+* [Development of C Language to shift from Assembly](127.0.0.1) Dennis Ritchie developed the C language (1970s) for Bell Labs, releases K&R coding paradigm.
+* [Upgrading C language](127.0.0.1) 
+* [Lessons from C incorporated into newer languages](127.0.0.1) 
