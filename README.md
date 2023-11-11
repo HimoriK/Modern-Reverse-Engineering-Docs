@@ -62,8 +62,8 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 
 * [FreeCodeCamp ARM Tutorial](https://youtu.be/gfmRrPjnEw4) 2 hours, decent probably
 * [MIPS Assembly Tutorial](https://youtu.be/BlOLrVo4Nkk?list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A) rare enthusiasm, might be good
-* [C Tutorial Series](https://www.youtube.com/watch?v=zPObUTmiCzk&list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif&index=3) bloat, decent though; there's also [A full version](https://youtu.be/ssJY5MDLjlo?t=399)
 * [Modern C++ Tutorial Series](https://www.youtube.com/playlist?list=PL9GxRn_rQx8Pwe4bMecruWbIEICAsZtgT) Effective dual instructor content
+* [C Tutorial Series](https://www.youtube.com/watch?v=zPObUTmiCzk&list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif&index=3) bloat, decent though; there's also [A full version](https://youtu.be/ssJY5MDLjlo?t=399)
 </details>
 
 ### Extra
