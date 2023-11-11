@@ -71,7 +71,7 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 * [Game Boy Coding Adventure](https://www.amazon.com/Game-Boy-Coding-Adventure-programming-ebook/dp/B0B7FY5576) Brief but informative game boy hacking book, 2021.
 * [Lua StackOverflow Guide](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522164/lua.pdf) Brief, probably not very good
 * [Mastering Defensive Security](https://www.amazon.com/Mastering-Defensive-Security-techniques-infrastructure-ebook/dp/B09BZXC5SC) Random cybersecurity book.
-* [https://makelinux.github.io/kernel/map/](https://makelinux.github.io/kernel/map/)
+* [Linux Kernel Map](https://makelinux.github.io/kernel/map/)
 * [Stable Diffusion FreeCC Tutorial](https://youtu.be/dMkiOex_cKU) Handy
 
 ## Tools
