@@ -80,7 +80,7 @@ Ever wonder why your applications are so frustrating, and seem to become moreso 
 > In theory, practice and theory are the same. In practice, they're *different*.
 
 <pre>It is utterly horrible. Very simple concepts explained in such a way as to make them confusing, with strange notation, 
-terrible figures, and very little English analysis or context. I only read the first thirty pages, but oh man were they bad. 
-I have some background in ML, a pretty strong math background, and a PhD in biophysics, and there is nothing I hate more than 
-simple things I already understand or could easily understand, explained so as to be incomprehensible.
+terrible figures, and very little English analysis or context. I only read the first thirty pages, but oh man were they 
+bad. I have some background in ML, a pretty strong math background, and a PhD in biophysics, and there is nothing I hate 
+more than simple things I already understand or could easily understand, explained so as to be incomprehensible.
 </pre> 
