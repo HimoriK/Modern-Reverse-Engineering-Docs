@@ -104,6 +104,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [WhyJulia](https://ucidatascienceinitiative.github.io/IntroToJulia/Html/WhyJulia) Julia potentially faster than C.
 * [reddit/favcsyoutuber](https://www.reddit.com/r/hacking/comments/nj68g2/which_is_your_favourite_cybersecurity_youtube/)
 * [C++ CodeTechandTutorials](https://www.youtube.com/@CodeTechandTutorials) Good general C++ and coding channel.
+* [Linux Kernel Map](https://makelinux.github.io/kernel/map/) Great visual diagram for the Linux kernel
 * [x86-64 Assembly Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
 * [6502 ASM Tutorial](https://skilldrick.github.io/easy6502/index.html) alternative approach for beginners. X86 is written by compilers, 6502 is easier for academic purposes.
 * [Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/)
@@ -111,6 +112,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [3 hour ML Roadmap](https://youtu.be/pHiMN_gy9mk) good if you don't want to read about ML paths
 * [Awesome Hacking Resources](https://github.com/HimoriK/Awesome-Hacking-Resources) another list I slightly updated.
 * [Hack a PDF with JavaScript](https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/) Might come in handy.
+* [Stable Diffusion FreeCC Tutorial](https://youtu.be/dMkiOex_cKU) Handy
 * [RansomwareLive](https://ransomware.live/#/) Live testing site.
 
 ### Programming 
