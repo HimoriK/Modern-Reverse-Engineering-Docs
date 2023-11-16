@@ -69,11 +69,12 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 ### Extra
 * [Game Boy Coding Adventure](https://www.amazon.com/Game-Boy-Coding-Adventure-programming-ebook/dp/B0B7FY5576) Brief but informative game boy hacking book, 2021.
 * [Lua StackOverflow Guide](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522164/lua.pdf) Brief, probably not very good
+* [Computer Networks](https://intronetworks.cs.luc.edu/current2/ComputerNetworks.pdf) Good book on networks
 * [Mastering Defensive Security](https://www.amazon.com/Mastering-Defensive-Security-techniques-infrastructure-ebook/dp/B09BZXC5SC) Random cybersecurity book.
 
 ## Tools
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra) Software reverse engineering (SRE) framework by the NSA to analyze compiled code. Includes disassembly, decompilation, scripting, etc. Supports different instruction sets & plug-ins.
-* [Radare2](http://www.radare.org/) Portable reversing framework for disassembly, debugging, forensics, etc. Based on capstone, uses cmdline, scriptable. [010 Editor](https://www.sweetscape.com/010editor/):Best Proprietary Hex Editor, great for binary analysis. Free alt is: [HxD](https://mh-nexus.de/en/hxd/), [Bless](https://github.com/afrantzis/bless), or [ImHex](https://github.com/WerWolv/ImHex)
+* [Radare2](http://www.radare.org/) Portable reversing framework. Uses cmdline, scriptable. [010 Editor](https://www.sweetscape.com/010editor/):Best Proprietary Hex Editor, great for binary analysis. Free alt is: [HxD](https://mh-nexus.de/en/hxd/), [Bless](https://github.com/afrantzis/bless), or [ImHex](https://github.com/WerWolv/ImHex)
 * [x64dbg](http://x64dbg.com/) Open source x64/x32 Windows debugger.
 
 ### Old
