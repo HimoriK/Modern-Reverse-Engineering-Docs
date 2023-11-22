@@ -43,6 +43,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
 * [Intel x86](http://opensecuritytraining.info/IntroX86.html) 
 * [Assembly Perspective](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/) Decent show of how code works with assembly.
+* [Assembly Resources](https://reverseengineering.stackexchange.com/a/267) old list (10+ yrs)
 * [Placebo](https://redteamlounge.gitbook.io/rtl/resources/reversing)
 * [Arm Tutorial Exercises](https://armasm.com/) & [Videos](https://www.youtube.com/watch?v=qX6NoqkAMGU&list=PL3obxknGN_EF1BQAL93XprpNUBo81PHFt) 
 * [Assembly Language Succinctly](https://www.syncfusion.com/ebooks/assemblylanguage)
