@@ -112,6 +112,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Assembly Sheet Berkeley](https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf) Advanced, brief.
 * [3 hour ML Roadmap](https://youtu.be/pHiMN_gy9mk) good if you don't want to read about ML paths
 * [Awesome Hacking Resources](https://github.com/HimoriK/Awesome-Hacking-Resources) another list I slightly updated.
+* [PDF-XChange Editor](https://www.pdf-xchange.com/product/pdf-xchange-editor) better than adobe, the ultimate PDF editor w/customizable toolbar
 * [Hack a PDF with JavaScript](https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/) Might come in handy.
 * [Stable Diffusion FreeCC Tutorial](https://youtu.be/dMkiOex_cKU) Handy
 * [RansomwareLive](https://ransomware.live/#/) Live testing site.
@@ -182,8 +183,19 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 
 ## History
 
-* [Ada Lovelace](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer) English mathematician (1815–1852)
+* [Ada Lovelace](https://www.britannica.com/story/ada-lovelace-the-first-computer-programmer) English mathematician (1815–1852) Explained that computers had infinite possibilities.
 * [Who is credited for the creation of Assembly Language?](https://retrocomputing.stackexchange.com/a/6323) Various creations, Nathaniel Rochester developed the IBM 701 in 1954
-* [Development of C Language to shift from Assembly](127.0.0.1) Dennis Ritchie developed the C language (1970s) for Bell Labs, releases K&R coding paradigm.
-* [Upgrading C language](127.0.0.1) 
-* [Lessons from C incorporated into newer languages](127.0.0.1) 
+* [Development of C to shift from Assembly](https://www.bell-labs.com/usr/dmr/www/chist.html) Dennis Ritchie developed the C language (1970s) for Bell Labs, releases K&R coding paradigm.
+* [Upgrading C language](https://github.com/carbon-language/carbon-lang) C, used for performance critical systems, it's the heart of Linux & Windows. C++ , Python, etc are C based
+* [C incorporated into new code](https://faultlore.com/blah/c-isnt-a-language) Newer code is simple or enhanced C, in every OS, C is 'not just a language' anymore, but akin to a protocol.
+
+  C itself isn't popular among new programmers, however, it's inspired derivatives like C++ , C#, Java, Rust & Python are widely used. Thanks to C, we are able to
+  code much more effectively than when languages were first introduced, this simplicity has led to less efficient development, due to greater flexibility to err.
+  After C was released, Assembly use has greatly declined over the years. It also was created for Unix, and still dominates systems programming and general tasks today.
+  Now companies are trying to enhance or replace it, but the technical fruit it bears changed programming forever. C will still be around for the foreseeable future.
+
+  Now all of this is far easier and more efficient to do, with the advent of efficient AI, eventually we will reach a stage where programming is just an idea,
+  similiarly to how it began, centuries ago. Ada Lovelace, the Countess of programming, Alan Turing; Pioneer of Computer Science, Dennis Ritchie; Captain of Modern Systems Programming languages.
+  These 3 individuals and their associates greatly impacted the modern development of computing today, until centuries ago, the concept of automated computation was simply an idea, an algorithm.
+
+  Remember it's all just math, the original computers were human.
