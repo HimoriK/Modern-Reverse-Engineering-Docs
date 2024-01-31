@@ -51,6 +51,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Becoming a full-stack reverse-engineer](https://youtu.be/9vKG8-TnawY)
 * [Tool review](https://www.pelock.com/articles/reverse-engineering-tools-review)
 * [Go Reverse Engineering ToolKit](https://go-re.tk/)
+* [Windows Exploitation](https://github.com/himorik/cybersecurity-windows-exploitation) old quality resources, good catalogues
 * [x86 Assembly Crash Course → YouTube](https://www.youtube.com/watch?v=75gBFiFtAb8) The first search on youtube.
 * [x86-assembly-cheat](https://github.com/cirosantilli/x86-assembly-cheat)
 * [Helnski x86 PowerPoints](https://courses.ics.hawaii.edu/ReviewICS312/modules/)
