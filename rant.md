@@ -34,6 +34,8 @@ Conversely, FASM has *many* resources to get up to speed with it. YASM might rep
 
 YASM is about as popular as both NASM & FASM, however the utility is more important for a
 general assembly language to learn. In general, I'd learn YASM or FASM. Followed by ARM if necessary.
+Pro reversers recommend to start with ARM, not Intel x86/64 due to using deeper infrastracture, ARM is simple, 
+and used for many embedded devices. You may even own an ARM device right now. Or you could emulate it.
 
 <details><summary>High level languages</summary> 
 
