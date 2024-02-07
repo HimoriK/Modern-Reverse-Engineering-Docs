@@ -26,6 +26,8 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 
 * [Reverse Engineering 101](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/) Start here, if this is too difficult, run.
 * [Reverse Engineering 102](https://www.shadowinfosec.io/2018/05/a-gentle-introduction-into-arm-assembly.html) If you can read this, you can learn.
+* [Disassembler 101](https://www.geekbits.io/introduction-to-disassemblers/)
+* [GDB Quick](https://www.youtube.com/watch?v=xQ0ONbt-qPs) Old school terminal [tactics](https://www-users.cse.umn.edu/~kauffman/tutorials/gdb)
 * [x86 Assembly Crash Course](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf) 25 pgs, 2013.
 * [NASM](https://pacman128.github.io/pcasm/) & [FASM](https://flatassembler.net/)
 * [CTF Guide #1](https://trailofbits.github.io/ctf/) [& #2](https://github.com/ctf-wiki/ctf-wiki)
@@ -39,8 +41,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [Reverse Engineering for Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/14155682/RE4B-EN.pdf): Available in multiple languages, good resource for beginners.
 * [Programming from the Ground Up](https://www.amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1540831825): Uses x86 Linux assembly language on important concepts in programming, Princeton University, has sequel book by the author, 2016.
 * [Learn to Program with Assembly](https://www.amazon.com/Learn-Program-Assembly-Foundational-Programmers/dp/1484274369): Teaches x86-64 with Linux assembly language, 2021.
-* [Blue Fox: Arm & Reverse Engineering](https://www.amazon.com/Blue-Fox-Assembly-Internals-Analysis/dp/1119745306): Introduces reverse engineering concepts such as binary analysis
-and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Architecture.)
+* [Blue Fox: Arm & Reverse Engineering](https://www.amazon.com/Blue-Fox-Assembly-Internals-Analysis/dp/1119745306): Introduces reverse engineering concepts such as binary analysis/disassembly with Arm, 2023. (#1 on amazon, great book)
 * [Computer Science I](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522155/ComputerScienceOne.pdf)
 * [Algorithms Refresh](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522196/Algorithms-JeffE-BW.pdf) Has notes, references, open source.
 * [ARM7-TDMI-manual-pt3](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522207/ARM7-TDMI-manual-pt3.pdf)
@@ -64,6 +65,7 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 * [MIPS Assembly Tutorial](https://youtu.be/BlOLrVo4Nkk?list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A) rare enthusiasm, might be good
 * [Modern C++ Tutorial Series](https://www.youtube.com/playlist?list=PL9GxRn_rQx8Pwe4bMecruWbIEICAsZtgT) Effective dual instructor content
 * [C Tutorial Series](https://www.youtube.com/watch?v=zPObUTmiCzk&list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif&index=3) bloat, decent though; there's also [A full version](https://youtu.be/ssJY5MDLjlo?t=399)
+* [GDB Tutorial](https://youtu.be/svG6OPyKsrw?t=89) ok intro by Waterloo, 1hr
 </details>
 
 ### Extra
@@ -71,11 +73,12 @@ and disassembly with Arm, 2023. (#1 on amazon @ 5 stars, great book on Arm Archi
 * [Lua StackOverflow Guide](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522164/lua.pdf) Brief, probably not very good
 * [Computer Networks](https://intronetworks.cs.luc.edu/current2/ComputerNetworks.pdf) Good book on networks
 * [Mastering Defensive Security](https://www.amazon.com/Mastering-Defensive-Security-techniques-infrastructure-ebook/dp/B09BZXC5SC) Random cybersecurity book.
+* [Decompiler Explorer](https://dogbolt.org/) Public diff output binary [compilers](https://godbolt.org/)
 
 ## Tools
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra) Software reverse engineering (SRE) framework by the NSA to analyze compiled code. Includes disassembly, decompilation, scripting, etc. Supports different instruction sets & plug-ins.
 * [010 Editor](https://www.sweetscape.com/010editor/) Best Proprietary Hex Editor, great for binary analysis; [Binja](https://binary.ninja/), Free alt is: [HxD](https://mh-nexus.de/en/hxd/), [Bless](https://github.com/afrantzis/bless), or [ImHex](https://github.com/WerWolv/ImHex)
-* [x64dbg](http://x64dbg.com/) Open source x64/x32 Windows debugger.
+* [x64dbg](http://x64dbg.com/) Open source x64/x32 Windows debugger. [Reko](https://github.com/uxmal/reko) decompiler
 
 ### Old
 * [Intro to Microprocessors and Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680) Brief reference, 2007.
