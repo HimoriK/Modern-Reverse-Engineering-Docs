@@ -26,7 +26,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 
 * [Reverse Engineering 101](https://intezer.com/blog/malware-analysis/malware-reverse-engineering-beginners/) Start here, if this is too difficult, run.
 * [Reverse Engineering 102](https://www.shadowinfosec.io/2018/05/a-gentle-introduction-into-arm-assembly.html) If you can read this, you can learn.
-* [Disassembler 101](https://www.geekbits.io/introduction-to-disassemblers/)
+* [Disassembler 101](https://www.geekbits.io/introduction-to-disassemblers/) An overview
 * [GDB Quick](https://www.youtube.com/watch?v=xQ0ONbt-qPs) Old school terminal [tactics](https://www-users.cse.umn.edu/~kauffman/tutorials/gdb)
 * [x86 Assembly Crash Course](https://sensepost.com/blogstatic/2014/01/SensePost_crash_course_in_x86_assembly-.pdf) 25 pgs, 2013.
 * [NASM](https://pacman128.github.io/pcasm/) & [FASM](https://flatassembler.net/)
@@ -76,8 +76,8 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [Decompiler Explorer](https://dogbolt.org/) Public diff output binary [compilers](https://godbolt.org/)
 
 ## Tools
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) Software reverse engineering (SRE) framework by the NSA to analyze compiled code. Includes disassembly, decompilation, scripting, etc. Supports different instruction sets & plug-ins.
-* [010 Editor](https://www.sweetscape.com/010editor/) Best Proprietary Hex Editor, great for binary analysis; [Binja](https://binary.ninja/), Free alt is: [HxD](https://mh-nexus.de/en/hxd/), [Bless](https://github.com/afrantzis/bless), or [ImHex](https://github.com/WerWolv/ImHex)
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) Software reverse engineering (SRE) framework by the NSA. Includes disassembly, decompilation, scripting, etc. Highly extensible, feature rich.
+* [010 Editor](https://www.sweetscape.com/010editor/) Best Proprietary Hex Editor for binary analysis; [Binja](https://binary.ninja/), Free alt is: [HxD](https://mh-nexus.de/en/hxd/), [Bless](https://github.com/afrantzis/bless), or [ImHex](https://github.com/WerWolv/ImHex)
 * [x64dbg](http://x64dbg.com/) Open source x64/x32 Windows debugger. [Reko](https://github.com/uxmal/reko) decompiler
 
 ### Old
