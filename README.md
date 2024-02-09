@@ -76,7 +76,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [Decompiler Explorer](https://dogbolt.org/) Public diff output binary [compilers](https://godbolt.org/)
 
 ## Tools
-* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) Software reverse engineering framework by NSA. Includes disassembly, decompilation, etc. Highly extensible.
+* [Ghidra](https://github.com/NationalSecurityAgency/ghidra) Software reverse engineering suite by NSA. Includes disassembly, decompilation, etc. Highly extensible.
 * [010 Editor](https://www.sweetscape.com/010editor/) Best Proprietary Hex Editor for binary analysis; [Binja](https://binary.ninja/), Free alt is: [HxD](https://mh-nexus.de/en/hxd/), [Bless](https://github.com/afrantzis/bless), or [ImHex](https://github.com/WerWolv/ImHex)
 * [x64dbg](http://x64dbg.com/) Open source x64/x32 Windows debugger. [Reko](https://github.com/uxmal/reko) decompiler
 
