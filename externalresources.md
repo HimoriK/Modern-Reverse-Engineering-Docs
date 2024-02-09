@@ -108,7 +108,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [C++ CodeTechandTutorials](https://www.youtube.com/@CodeTechandTutorials) Good general C++ and coding channel.
 * [Linux Kernel Map](https://makelinux.github.io/kernel/map/) Great visual diagram for the Linux kernel
 * [x86-64 Assembly Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
-* [6502 ASM Tutorial](https://skilldrick.github.io/easy6502/index.html) alternative approach for beginners. X86 is written by compilers, 6502 is easier for academic purposes.
+* [6502 ASM Tutorial](https://skilldrick.github.io/easy6502/index.html) alt approach for beginners. X86 is written by compilers, 6502 easier for hobbyist.
 * [Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/)
 * [Assembly Sheet Berkeley](https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf) Advanced, brief.
 * [3 hour ML Roadmap](https://youtu.be/pHiMN_gy9mk) good if you don't want to read about ML paths
