@@ -70,6 +70,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 
 ### Extra
 * [Game Boy Coding Adventure](https://www.amazon.com/Game-Boy-Coding-Adventure-programming-ebook/dp/B0B7FY5576) Game boy hacking book, 2021.
+* [PS1 Programming Language](https://retro-programming.com/playstation-one-programming-language/) article on why PS1 used C
 * [Lua StackOverflow Guide](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522164/lua.pdf) Brief, probably not very good
 * [Computer Networks](https://intronetworks.cs.luc.edu/current2/ComputerNetworks.pdf) Good book on networks
 * [Mastering Defensive Security](https://www.amazon.com/Mastering-Defensive-Security-techniques-infrastructure-ebook/dp/B09BZXC5SC) Random cybersecurity book.
