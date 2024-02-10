@@ -39,7 +39,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [ModernC for Absolute Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/12445479/Modern.C.for.Absolute.Beginners.pdf) Not a fan of this version, but it's new.
 * [ModernC++ for Absolute Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11929600/Modern.C%2B%2B.for.Absolute.Beginners.pdf) Efficient.
 * [Reverse Engineering for Beginners](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/14155682/RE4B-EN.pdf): Available in multiple languages, good resource for beginners.
-* [Programming from the Ground Up](https://www.amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1540831825): x86 Linux assembly with key concepts, Princeton, sequel book by author, 2016.
+* [Programming from the Ground Up](https://www.amazon.com/Programming-Ground-Up-Jonathan-Bartlett/dp/1540831825): x86 Linux key concepts, Princeton, sequel book by author, 2016.
 * [Learn to Program with Assembly](https://www.amazon.com/Learn-Program-Assembly-Foundational-Programmers/dp/1484274369): Teaches x86-64 with Linux assembly language, 2021.
 * [Blue Fox: Arm & Reverse Engineering](https://www.amazon.com/Blue-Fox-Assembly-Internals-Analysis/dp/1119745306): Introduces binary analysis concepts with Arm, 2023. (#1 on amazon)
 * [Computer Science I](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522155/ComputerScienceOne.pdf)
