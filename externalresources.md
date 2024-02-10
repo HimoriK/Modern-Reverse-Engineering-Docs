@@ -138,6 +138,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)- Trevis Rothwell, James Youngman 2015.
 * [The little book about OS development](https://ordoflammae.github.io/littleosbook/book.pdf) Nice little x86 OS dev book, might be useful later, current.
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
+* [N64 Programming Resource](https://github.com/HimoriK/awesome-n64-development) edited repo by me
 
 *Julia*
 
