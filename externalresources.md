@@ -114,7 +114,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [3 hour ML Roadmap](https://youtu.be/pHiMN_gy9mk) good if you don't want to read about ML paths
 * [Awesome Hacking Resources](https://github.com/HimoriK/Awesome-Hacking-Resources) another list I slightly updated.
 * [Embedded Artistry](https://embeddedartistry.com/beginners/) embedded systems research
-* [Learn Embedded Systems](https://github.com/erinjense/Learn-Embedded-Systems) random repo
+* [Learn Embedded Systems](https://github.com/HimoriK/How_to_learn_modern_Embedded_Systems) random repo
 * [PDF-XChange Editor](https://www.pdf-xchange.com/product/pdf-xchange-editor) better than adobe, the ultimate PDF editor w/customizable toolbar
 * [Hack a PDF with JavaScript](https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/) Might come in handy.
 * [Stable Diffusion FreeCC Tutorial](https://youtu.be/dMkiOex_cKU) Handy
