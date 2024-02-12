@@ -113,6 +113,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Assembly Sheet Berkeley](https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf) Advanced, brief.
 * [3 hour ML Roadmap](https://youtu.be/pHiMN_gy9mk) good if you don't want to read about ML paths
 * [Awesome Hacking Resources](https://github.com/HimoriK/Awesome-Hacking-Resources) another list I slightly updated.
+* [LowLevelProgramming](https://github.com/HimoriK/lowlevelprogramming-university) low level programming atlas
 * [Embedded Artistry](https://embeddedartistry.com/beginners/) embedded systems research
 * [Learn Embedded Systems](https://github.com/HimoriK/How_to_learn_modern_Embedded_Systems) random repo
 * [PDF-XChange Editor](https://www.pdf-xchange.com/product/pdf-xchange-editor) better than adobe, the ultimate PDF editor w/customizable toolbar
