@@ -8,9 +8,9 @@ I was tired of finding 10+ year old rhetoric that has already changed or will ch
 
 ### So what do we do?
 
-Try to use a fresh resource you get within the same year, if not, within 2 years. Beyond that, if the data is no longer relevant, if it can be improved, you can do so. Several times over, have I discovered that, in my search for quality tutorials and info, these 'prestigious' books were filled with redundant code/architecture which wouldn't even compile. Do not waste your money with outsourced, non-debugged commercial products written by so-called 'experts' of these languages. Working 2x as hard carries the same risks. <a href="https://www.atlassian.com/blog/productivity/this-is-how-many-hours-you-should-really-be-working">Don't overwork yourself</a>. <a href="https://www.cnbc.com/2015/01/26/working-more-than-50-hours-makes-you-less-productive.html">Avoid productivity loss</a>. Only work more if you absolutely have to. I.E you owe the mafia. 
+Try to use a fresh resource you get within the same year-2. If the data is no longer relevant, but can be improved, do so. Several times over, have I discovered that, in my search for quality tutorials and info, these 'prestigious' books were filled with redundant code/architecture which wouldn't even compile. Do not waste your money with outsourced, non-debugged commercial products written by so-called 'experts' of these languages. Working 2x as hard carries the same risks. <a href="https://www.atlassian.com/blog/productivity/this-is-how-many-hours-you-should-really-be-working">Don't overwork yourself</a>. <a href="https://www.cnbc.com/2015/01/26/working-more-than-50-hours-makes-you-less-productive.html">Avoid productivity loss</a>. Only work more if you absolutely have to. I.E you owe the mafia. 
 
-An alternative to looking for outdated resources, whether free or otherwise, is to simply frequent blogs, forums, and videos. You may not learn as much or as quickly had you
+An alternative to looking for outdated resources, free or no, is to simply frequent blogs, forums, & videos. You may not learn as much or as quickly had you
 simply picked up a book. But if you aren't reading, then you're probably coding anyway. And if you aren't coding, then what are you here for? This project is for coders, go on.
 
 * Most of Windows & Linux API is in C. C++ was the defacto language for projects.
@@ -26,7 +26,7 @@ Seems like Cybersecurity is a vague term, there are a lot of different names for
 
 * Ghidra has been gaining popularity despite using Java.
 * IDA industry standard, but policies restrict use.
-* Radare2 is CLI only, unless Iaito, & zero-sum forked. 
+* Binja has been improving recently.
 
 There are too many assembly languages, some are now depreciated.
 ARM, NASM, FASM/G & YASM are good to learn. Users mentioned NASM is bloated with C and the source code is not as elegant as FASM(100% assembly of itself).
@@ -77,7 +77,7 @@ Ever wonder why your applications are so frustrating, and seem to become moreso 
 
 ```The complexity is unnecessary. A good technical book must be either **crystal clear** or *extremely accurate*. To be dense and careless is unfair to the reader, who must take the time to decode each and every word carefully in order to determine the meaning.```
 
-> What one fool can do, another can. And, in **mathematics**, *we are all fools..*
+> What one fool can do, another can. And in **mathematics**, *we are all fools..*
 
 > In theory, practice and theory are the same. In practice, they're *different*.
 
