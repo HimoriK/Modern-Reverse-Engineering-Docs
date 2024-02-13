@@ -130,7 +130,6 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Learn to Code With C](https://magpi.raspberrypi.com/books/essentials-c-v1) Recommends Geany. Good Primer? (90 pages) 2016.
 * [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) (Primer, learn GNU C), 2008 [Confirmed](https://www.gnu.org/savannah-checkouts/non-gnu/c-prog-book/)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
-* ~~[Beej's Guide to C Programming](https://beej.us/guide/bgc/pdf/bgc_usl_c_1.pdf) wordy, use v2 reference instead.~~
 * [Build Your Own Redis with C/C++](https://build-your-own.org) build-your-own.org (HTML) (:construction: *in process*)
 * [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/) bootcamp 2012, describes data types/easy examples, neat
 * [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/) brief, pointers only guide, 2010.
@@ -139,6 +138,8 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (easy intro) 2013.
 * [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess, Ron Hale-Evans (PDF) 2002, very in depth though. GNU will always be useful, though this book is outdated.
 * [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)- Trevis Rothwell, James Youngman 2015.
+* [OSDev](https://wiki.osdev.org/Introduction) Key resource on OS development
+* [OSR Community](https://community.osr.com/) & [lib](https://www.osr.com/osr-learning-library/) 2nd key resource
 * [The little book about OS development](https://ordoflammae.github.io/littleosbook/book.pdf) Nice little x86 OS dev book, might be useful later, current.
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [N64 Programming Resource](https://github.com/HimoriK/awesome-n64-development) edited repo by me
@@ -179,9 +180,11 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Learning assembly for linux-x64](https://github.com/0xAX/asm) english/chi is pretty bad, but is legible I think, they tried. 2020
 * [x86 microcode, but might have been afraid to ask](https://media.ccc.de/v/34c3-9058-everything_you_want_to_know_about_x86_microcode_but_might_have_been_afraid_to_ask) advanced, 2017
 * [Literally just some of the same resources](https://determined-pink-c50.notion.site/806c7afcbce24dc19e26fcd4b9c84f7b?v=21a0d4cde27942c48924ef5b078acc99)
+* [Assembly Tutorials](https://www.assemblytutorial.com/) random guides from an enthusiast on ancient architectures (beginners)
 * [Beej's Guide to Network Programming](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522150/bgnet_usl_bw_1.pdf) free guide, sockets
-* [randomyt](https://www.youtube.com/c/BenEater/videos)
+* [Eateryt](https://www.youtube.com/c/BenEater/videos) & [Design an 8 Bit Computer](https://eater.net/) Build your own microprocessor 
 * [Windows Security](http://www.cse.tkk.fi/fi/opinnot/T-110.6220/2014_Reverse_Engineering_Malware_AND_Mobile_Platform_Security_AND_Software_Security/luennot-files/T1106220.pdf) advanced, unclear slides.
+* [BrokenThornOS](http://www.brokenthorn.com/Resources/OSDev0.html) dated/useful guide, use littleOSbook
 * [The Red Book](https://www.red-book.eu/m/documents/syssec_red_book.pdf): Systems security research article, 2013.
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline 1997, leisurely, punch cards.
 * [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch 2011, learned Python? Learn C.
