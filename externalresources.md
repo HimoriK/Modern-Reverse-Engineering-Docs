@@ -141,8 +141,15 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [OSDev](https://wiki.osdev.org/Introduction) Key resource on OS development
 * [OSR Community](https://community.osr.com/) & [lib](https://www.osr.com/osr-learning-library/) 2nd key resource
 * [The little book about OS development](https://ordoflammae.github.io/littleosbook/book.pdf) Nice little x86 OS dev book, might be useful later, current.
+* [OpenGL](https://learnopengl.com/) Classic way to learn graphics programming
+* [Vkdev](https://vkguide.dev/) Vulkan Programming Guide & [OGLdev](https://ogldev.org/)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [N64 Programming Resource](https://github.com/HimoriK/awesome-n64-development) edited repo by me
+
+*Databases*
+
+* [SQL-101](https://github.com/s-shemmee/SQL-101) & [Foundations](http://webdam.inria.fr/Alice/pdfs/all.pdf)
+* [Metalearning: Applications to Automated Machine Learning and Data Mining](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/14318827/Metalearning_.Applications.to.Automated.Machine.Learning.and.Data.Mining.2nd.Ed.Rijn.2009.pdf)
 
 *Julia*
 
