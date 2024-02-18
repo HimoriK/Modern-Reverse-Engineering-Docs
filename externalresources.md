@@ -109,6 +109,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Linux Kernel Map](https://makelinux.github.io/kernel/map/) Great visual diagram for the Linux kernel
 * [x86-64 Assembly Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
 * [6502 ASM Tutorial](https://skilldrick.github.io/easy6502/index.html) alt approach for beginners. X86 is written by compilers, 6502 easier for hobbyist.
+* [Gameboy Dev ASM Tutorial](https://gbdev.io/gb-asm-tutorial/) Gameboy Z80 Beginner Guide, very modern
 * [Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus)
 * [Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/)
 * [Assembly Sheet Berkeley](https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf) Advanced, brief.
@@ -149,7 +150,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 
 *Databases*
 
-* [SQL-101](https://github.com/s-shemmee/SQL-101) & [Foundations](http://webdam.inria.fr/Alice/pdfs/all.pdf)
+* [SQL-101](https://github.com/s-shemmee/SQL-101)/[C DB Tutorial](https://cstack.github.io/db_tutorial/) & [Foundations](http://webdam.inria.fr/Alice/pdfs/all.pdf)
 * [Metalearning: Applications to Automated Machine Learning and Data Mining](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/14318827/Metalearning_.Applications.to.Automated.Machine.Learning.and.Data.Mining.2nd.Ed.Rijn.2009.pdf)
 
 *Julia*
@@ -188,8 +189,8 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Learning assembly for linux-x64](https://github.com/0xAX/asm) english/chi is pretty bad, but is legible I think, they tried. 2020
 * [x86 microcode, but might have been afraid to ask](https://media.ccc.de/v/34c3-9058-everything_you_want_to_know_about_x86_microcode_but_might_have_been_afraid_to_ask) advanced, 2017
 * [Literally just some of the same resources](https://determined-pink-c50.notion.site/806c7afcbce24dc19e26fcd4b9c84f7b?v=21a0d4cde27942c48924ef5b078acc99)
-* [Z80 Quick Guide](https://ph0nsy.github.io/z80-Assembly-Guide/doc_eng.html) & [Z80 Tutorial](https://jgmalcolm.com/z80/#beginner)/[z80heaven](http://z80-heaven.wikidot.com/) & [Z80 Dummies](https://www.msx.org/wiki/Z80_Assembler_for_Dummies)
-* [Z80 Wiki](https://wikiti.brandonw.net/index.php?title=Calculator_Documentation) & [Cemetech](https://www.cemetech.net)/[Codewalrus](https://codewalr.us/)
+* [Z80 Quick](https://ph0nsy.github.io/z80-Assembly-Guide/doc_eng.html) & [Z80 Tutorial](https://jgmalcolm.com/z80/#beginner)/[Z80heaven](http://z80-heaven.wikidot.com/) & [Z80 Dummies](https://www.msx.org/wiki/Z80_Assembler_for_Dummies)/[Z80 TI-83 in 28 Days](https://taricorp.gitlab.io/83pa28d/index.html)/[Z80 Gameboy Guide](https://github.com/john-lay/learn-z80-assembly) 
+* [Z80 Wiki](https://wikiti.brandonw.net/index.php?title=Calculator_Documentation)/[Guide](https://tutorials.eeems.ca/Z80ASM/part1.htm)/[User Manual](https://www.zilog.com/docs/z80/um0080.pdf) & [Cemetech](https://www.cemetech.net)/[Codewalrus](https://codewalr.us/)/[Video](https://www.youtube.com/playlist?list=PLPSrOWYluVLJyKIIDxlBtwkFC5lCE3xnY) & [Gameboy Pandocs](https://gbdev.io/pandocs/)/[Tutorial](https://gbdev.io/gb-asm-tutorial/) 
 * [Assembly Tutorials](https://www.assemblytutorial.com/) random guides from an enthusiast on ancient architectures (beginners)
 * [Beej's Guide to Network Programming](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522150/bgnet_usl_bw_1.pdf) free guide, sockets
 * [Eateryt](https://www.youtube.com/c/BenEater/videos) & [Design an 8 Bit Computer](https://eater.net/) Build your own microprocessor 
