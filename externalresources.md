@@ -43,8 +43,9 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Open Security Training](http://opensecuritytraining.info/Training.html)
 * [Intel x86](http://opensecuritytraining.info/IntroX86.html) 
 * [Assembly Perspective](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/) Decent show of how code works with assembly.
+* [Assembly Tutorial](https://github.com/mschwartz/assembly-tutorial) decent guide, new
 * [Assembly Resources](https://reverseengineering.stackexchange.com/a/267) old list (10+ yrs)
-* [Placebo](https://redteamlounge.gitbook.io/rtl/resources/reversing)
+* [RTL Resources](https://redteamlounge.gitbook.io/rtl/resources/reversing) few tutorials
 * [Arm Tutorial Exercises](https://armasm.com/) & [Videos](https://www.youtube.com/watch?v=qX6NoqkAMGU&list=PL3obxknGN_EF1BQAL93XprpNUBo81PHFt) 
 * [Assembly Language Succinctly](https://www.syncfusion.com/ebooks/assemblylanguage)
 * [Assembly.Hello](http://cssimplified.com/computer-organisation-and-assembly-language-programming/beginner-write-your-first-assembly-language-program-hello-world-explained)
@@ -110,6 +111,9 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [x86-64 Assembly Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
 * [6502 ASM Tutorial](https://skilldrick.github.io/easy6502/index.html) alt approach for beginners. X86 is written by compilers, 6502 easier for hobbyist.
 * [Gameboy Dev ASM Tutorial](https://gbdev.io/gb-asm-tutorial/) Gameboy Z80 Beginner Guide, very modern
+* [Gameboy Docs](https://ia903208.us.archive.org/9/items/GameBoyProgManVer1.1/GameBoyProgManVer1.1.pdf) Gameboy Manual 
+* [Game Boy Coding Adventure](https://mdagois.gumroad.com/l/CODQn) lacking
+* [Game Boy Advance Course](https://ianfinlayson.net/class/cpsc305/notes/06-gba1) *yes this is a legit college course* academia examines game systems as educational modules
 * [Computation Structures](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2017/pages/syllabus)
 * [Android Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/)
 * [Assembly Sheet Berkeley](https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf) Advanced, brief.
@@ -118,6 +122,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [LowLevelProgramming](https://github.com/HimoriK/lowlevelprogramming-university) low level programming atlas
 * [Embedded Artistry](https://embeddedartistry.com/beginners/) embedded systems research
 * [Learn Embedded Systems](https://github.com/HimoriK/How_to_learn_modern_Embedded_Systems) random repo
+* [Decompiler Explorer](https://dogbolt.org/) Public diff output bin [compiler](https://godbolt.org/)
 * [PDF-XChange Editor](https://www.pdf-xchange.com/product/pdf-xchange-editor) better than adobe, the ultimate PDF editor w/customizable toolbar
 * [Hack a PDF with JavaScript](https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/) Might come in handy.
 * [Stable Diffusion FreeCC Tutorial](https://youtu.be/dMkiOex_cKU) Handy
@@ -146,6 +151,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [OpenGL](https://learnopengl.com/) Classic way to learn graphics programming
 * [Vkdev](https://vkguide.dev/) Vulkan Programming Guide & [OGLdev](https://ogldev.org/)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
+* [Game Boy Advance DocS](https://ia801609.us.archive.org/33/items/game-boy-advance-programming-manual-v-1.35/Game%20Boy%20Advance%20Programming%20Manual%20v1.35.pdf) GBA Manual
 * [N64 Programming Resource](https://github.com/HimoriK/awesome-n64-development) edited repo by me
 
 *Databases*

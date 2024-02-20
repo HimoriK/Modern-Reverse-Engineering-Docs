@@ -64,7 +64,7 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [FreeCodeCamp ARM Tutorial](https://youtu.be/gfmRrPjnEw4) 2 hours, decent probably
 * [MIPS Assembly Tutorial](https://youtu.be/BlOLrVo4Nkk?list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A) rare enthusiasm, might be good
 * [Modern C++ Tutorial Series](https://www.youtube.com/playlist?list=PL9GxRn_rQx8Pwe4bMecruWbIEICAsZtgT) Effective dual instructor content
-* [C Tutorial Series](https://www.youtube.com/watch?v=zPObUTmiCzk&list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif&index=3) bloat, decent though; there's also [A full version](https://youtu.be/ssJY5MDLjlo?t=399)
+* [C Tutorial Series](https://www.youtube.com/watch?v=zPObUTmiCzk&list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif&index=3) bloat, decent though; there's also [A full vid](https://youtu.be/ssJY5MDLjlo?t=399)
 * [GDB Tutorial](https://youtu.be/svG6OPyKsrw?t=89) ok intro by Waterloo, 1hr
 </details>
 
@@ -74,7 +74,6 @@ There are different paths to learn reverse engineering. Any decent CS course inv
 * [Lua StackOverflow Guide](https://github.com/HimoriK/Modern-Reverse-Engineering-Docs/files/11522164/lua.pdf) Brief, probably not very good
 * [Computer Networks](https://intronetworks.cs.luc.edu/current2/ComputerNetworks.pdf) Good book on networks
 * [Mastering Defensive Security](https://www.amazon.com/Mastering-Defensive-Security-techniques-infrastructure-ebook/dp/B09BZXC5SC) Random cybersecurity book.
-* [Decompiler Explorer](https://dogbolt.org/) Public diff output binary [compilers](https://godbolt.org/)
 
 ## Tools
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra) NSA Software reverse engineering kit. Includes disassembly, decompilation, etc. Highly extensible.
