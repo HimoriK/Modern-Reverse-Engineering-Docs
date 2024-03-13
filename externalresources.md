@@ -162,6 +162,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 *Julia*
 
 * [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia) Wikibooks
+* [Computational Julia](https://computationalthinking.mit.edu/Fall23/) v/tracks
 * [Julia by Example](http://samuelcolvin.github.io/JuliaByExample) example code, meh
 * [Julia Data Science](https://juliadatascience.io) very good for beginners, was converted into a free MOOC
 * [Julia language: a concise tutorial](https://syl1.gitbook.io/julia-language-a-concise-tutorial) 2nd way to learn Julia.
