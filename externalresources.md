@@ -215,13 +215,15 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Upgrading C language](https://github.com/carbon-language/carbon-lang) C, used for performance critical systems, it's the heart of Linux & Windows. C++ , Python, etc are C based
 * [C incorporated into new code](https://faultlore.com/blah/c-isnt-a-language) Newer code is simple or enhanced C, in every OS, C is 'not just a language' anymore, but akin to a protocol.
 
-  C itself isn't popular among new programmers, however, it's inspired derivatives like C++ , C#, Java, Rust & Python are widely used. Thanks to C, we are able to
-  code much more effectively than when languages were first introduced, this simplicity has led to less efficient development, due to greater flexibility to err.
-  After C was released, Assembly use has greatly declined over the years. It also was created for Unix, and still dominates systems programming and general tasks today.
-  Now companies are trying to enhance or replace it, but the technical fruit it bears changed programming forever. C will still be around for the foreseeable future.
+```
+C itself isn't popular among new programmers, inspired derivatives like C#, Rust & Python are widely used.
+We are able to code increasingly efficiently, though more simplicity has led to less efficient development.
+After C was released, Assembly has greatly declined over the years. Created for *Unix* systems programming.
+C changed programming forever and will still be in use foreseeable future.
 
-  Now all of this is far easier and more efficient to do, with the advent of efficient AI, eventually we will reach a stage where programming is just an idea,
-  similiarly to how it began, centuries ago. Ada Lovelace, the Countess of programming, Alan Turing; Pioneer of Computer Science, Dennis Ritchie; Captain of Modern Systems Programming languages.
-  These 3 individuals and their associates greatly impacted the modern development of computing today, until centuries ago, the concept of automated computation was simply an idea, an algorithm.
+AI will reach a stage where programming is just an idea, similiar to centuries ago. Ada Lovelace, the Countess
+of programming, Alan Turing; Pioneer of Computer Science, Dennis Ritchie; Innovator of Modern Programming.
+These 3 with their associates greatly impacted the development of computing. Now, automated computation is
+much more than just ideas or algorithms.
 
-  Remember it's all just math, the original computers were human.
+Effectively, the original computers were human.
