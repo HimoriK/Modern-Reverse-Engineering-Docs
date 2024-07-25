@@ -125,6 +125,7 @@ Check [malware analysis](https://github.com/HimoriK/Modern-Reverse-Engineering-D
 * [Decompiler Explorer](https://dogbolt.org/) Public diff output bin [compiler](https://godbolt.org/)
 * [PDF-XChange Editor](https://www.pdf-xchange.com/product/pdf-xchange-editor) better than adobe, the ultimate PDF editor w/customizable toolbar
 * [Hack a PDF with JavaScript](https://www.freecodecamp.org/news/extract-pdf-pages-render-with-javascript/) Might come in handy.
+* [Windows Disk Space Analyzers](https://www.lifehacker.com.au/2020/01/the-best-disk-space-analyzer-for-windows/) Wiztree is fast, treesize etc has better UI
 * [Stable Diffusion FreeCC Tutorial](https://youtu.be/dMkiOex_cKU) Handy
 * [RansomwareLive](https://ransomware.live/#/) Live testing site.
 
